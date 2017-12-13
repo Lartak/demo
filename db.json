@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "content": "The content for first post",
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "content": "The content for second post",
+      "user_id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
