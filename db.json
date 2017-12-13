@@ -11,6 +11,12 @@
       "title": "My second post",
       "content": "The content for second post",
       "user_id": 1
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "content": "The content for third post",
+      "user_id": 1
     }
   ],
   "users": [
