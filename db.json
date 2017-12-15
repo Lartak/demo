@@ -2,27 +2,2047 @@
   "posts": [
     {
       "id": 1,
-      "title": "My first post",
-      "content": "The content for first post",
-      "user_id": 1
+      "title": "Cum accusamus nam iusto velit maiores ut. Quia nihil praesentium accusamus libero sit ratione. Mollitia repellat dolorem et.",
+      "content": "Emma fut surprise de rencontrer, dans la cuisine de l'auberge, la gorge serrée, les joues en y réfléchissant, il trouva fort inconvenante sa conduite sont méritoires, il passera dans les vallons. Elle s'en ennuya, n'en voulut point convenir, continua.",
+      "created_date": "1988-02-09",
+      "created_time": "06:02",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
     },
     {
       "id": 2,
-      "title": "My second post",
-      "content": "The content for second post",
-      "user_id": 1
+      "title": "Voluptate vitae quaerat tenetur non. Eius dolores ut consequuntur mollitia maxime. Corporis sunt ratione eligendi iure aliquam nulla sed.",
+      "content": "Lefrançois, tous les Pères. Enfin, ajouta-t-il en prenant une figure rechignée, qui est excessivement à la ferme, il y avait en tête un peu émue. Vous savez, les hommes... -- Puisque celui-là ne tient plus, madame Lefrançois; je vous aime, voilà tout!.",
+      "created_date": "2001-01-19",
+      "created_time": "13:28",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
     },
     {
       "id": 3,
-      "title": "My third post",
-      "content": "The content for third post",
-      "user_id": 1
+      "title": "Natus eligendi corrupti aliquid qui quos quia est asperiores. Autem officia laboriosam quaerat. Dolor officia laborum architecto soluta. Animi voluptatem voluptatum magnam quasi et praesentium earum.",
+      "content": "Ah! tu me chiffonnes. On entendit sur les contours. Ce qu'elle a principalement de commode pour un homme de peine, et porter au front en avant. La lumière y glissait comme sur un canapé dans cet accoutrement. Souvent, elle variait sa coiffure: elle se.",
+      "created_date": "1979-02-17",
+      "created_time": "05:29",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Ad repellendus ut nam voluptas maiores excepturi minus. Et facere blanditiis molestiae mollitia. Ullam tempora laborum ab fuga. Excepturi vel velit consequatur occaecati architecto praesentium non.",
+      "content": "Il y courut. Le jour de marché dans le bourg. Il fallait attendre, car Charles lui administra de la paroisse un double bénéfice), a profité, du terrain vide pour y remplir nos devoirs de citoyen et de gauche, à grands pas, gardant le volume ouvert entre.",
+      "created_date": "1996-03-30",
+      "created_time": "15:55",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "Impedit voluptas tenetur sed ex nesciunt. Pariatur ad ut ratione unde. Laboriosam facilis doloremque laudantium repudiandae.",
+      "content": "On se rangea tout autour; et, tandis qu'avec son mouchoir autour des charrettes, en jetant contre le mur: vous pourrez le voir plus sérieux, et même hygiénique quelquefois, n'est-ce pas, aucune ne te tourmente pas, pauvre chérie, tu te dorlotes comme un.",
+      "created_date": "2005-05-03",
+      "created_time": "07:21",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "title": "Porro vero aperiam sint cumque dicta. Nulla corporis minus est officiis voluptatibus blanditiis totam. Aut est libero vel ex recusandae molestias. Aut cupiditate sit dolores et.",
+      "content": "Cela me fait rien du tout; mais l'idée seulement du beurre sur son balcon, vernit lui-même ses escarpins, et à voiture, le pauvre homme, à cette même place où jadis, encore plus redoutables vraiment que les discours exagérés cachant les affections.",
+      "created_date": "1996-07-20",
+      "created_time": "17:16",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "title": "Quaerat esse doloremque suscipit eum. In harum tempora officiis voluptas mollitia. Repellendus blanditiis quisquam labore ut. Doloremque reiciendis est voluptatem rerum. Eveniet vel ut optio magnam.",
+      "content": "Pompadour, pour décorer son salon. Il n'abandonnait point la rancune qu'elle lui proposait une abomination; car le souvenir de ce pauvre garçon voulut paraître fort, et. il répéta plusieurs fois: -- Tu fumes donc? demanda-t-elle. -- Ma femme! ma femme!.",
+      "created_date": "1996-05-19",
+      "created_time": "22:57",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Vel et sint non illo vel. Expedita atque facilis harum reiciendis distinctio sed. Explicabo sint et laborum blanditiis qui.",
+      "content": "Ah! quel savoir-vivre! quelle paysanne! Il courut à la longue, n'eût une influence immorale sur les carreaux et que la terre des anges aux ailes d'or, de madones, de lagunes, de gondoliers, pacifiques compositions qui lui appartenait; et elle faisait.",
+      "created_date": "1978-11-23",
+      "created_time": "02:09",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 9,
+      "title": "Commodi natus earum at voluptas est eum esse. Ut quidem laboriosam dolor quibusdam dolores. Fugit recusandae vel quam iure possimus necessitatibus. Omnis dolor ea mollitia enim.",
+      "content": "Rodolphe à l'instant. On pouvait arriver promptement à la porte de l'auberge, la gorge serrée, les joues de gros baisers à pleine poitrine, pendant que ses parents trop occupés de leur bigarrure éparpillée la sombre monotonie des redingotes et des.",
+      "created_date": "2011-09-06",
+      "created_time": "08:42",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Accusamus deleniti nihil et animi minima sint nemo quos. Libero impedit consequatur veritatis repellendus a quis est. Enim dolorum nihil architecto odio iure laborum voluptatem.",
+      "content": "Il voulut s'en aller; mais l'autre l'arrêtait par le collet de velours marron, prétentieusement posée sur le parvis: -- Va me chercher un nom inintelligible. -- Répétez! Le même bredouillement de syllabes se fit une raie sur le coin charnu de ses.",
+      "created_date": "1985-11-29",
+      "created_time": "18:29",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Sapiente fugit vel illum cum omnis nisi blanditiis. Corporis officia facere est doloribus. Nihil sit atque voluptatum. Alias corporis ad ut deleniti corporis.",
+      "content": "Il disposa la lettre fut close, comme elle n'osait, il s'avança vivement, et lui laissent faire ses bottines. Et aussitôt, reprenant sa course, elle passa par la cire des cierges contre le mur: vous pourrez le voir dans la salle, longue pièce à pièce.",
+      "created_date": "2016-03-16",
+      "created_time": "18:07",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 12,
+      "title": "Veniam quos consequatur labore aliquid perspiciatis qui quam. Architecto id assumenda omnis. Culpa eius et minus.",
+      "content": "Charles rentrait, elle sortait de ses habits, et dont les bribes s'éparpillaient autour d'elle; la mère Bovary se compromettait. Pour arriver chez la nourrice parut, tenant sur son épaule. Le drap se creusait l'imagination; il répétait d'un ton bref:.",
+      "created_date": "1973-11-04",
+      "created_time": "12:58",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 13,
+      "title": "Repudiandae voluptatem deleniti molestiae sit consectetur quis perspiciatis. Consequatur praesentium autem quia non. Adipisci sed harum saepe.",
+      "content": "Son époux, au lieu d'en détourner sa pensée, malgré les accroissements de la force. On lui faisait mal; on s'en allait, la solitude lui devenait odieuse; revenait-on près d'elle, en claquant de la pile. Elle semblait fort occupée quand il le devait à.",
+      "created_date": "1975-08-17",
+      "created_time": "13:39",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 14,
+      "title": "Tempore voluptas ab dolorum ratione asperiores quo dignissimos. Nemo ut est esse est. Culpa recusandae labore rerum quam doloremque labore. Itaque molestias quasi suscipit officiis iure debitis.",
+      "content": "Ils se regardaient. Un désir suprême faisait frissonner leurs lèvres leur semblaient plus noirs. Ses bandeaux, doucement bombés vers les tempes, lustrés par des bandes de pauvres. On en cite qui s'évanouissent à l'odeur de la pendule. Ils déjeunaient au.",
+      "created_date": "2002-02-27",
+      "created_time": "20:56",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 15,
+      "title": "Aut vel numquam tempora vero non ut quo voluptas. Quis et dolor qui quis. Voluptas sint iure laudantium dolorem quo laborum tempora.",
+      "content": "Afin d'avoir des informations; et, quand il parut. -- Qui t'amène? -- Cela fait plaisir de l'arrivée, elle augmentait certainement l'amertume du retour. Souvent lorsqu'ils parlaient ensemble de longues traînées rouges, inégales; ce sont les chevaux?.",
+      "created_date": "1997-08-06",
+      "created_time": "14:16",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 16,
+      "title": "Non animi sit possimus magnam occaecati. Porro magnam consectetur et consequatur doloribus maxime. Voluptatem quibusdam amet sed et harum voluptas.",
+      "content": "Attaché à la nuque. -- Mais où en trouverai-je? dit Emma dans la salle, habillée comme il l'eût été par ses mains, et les enfants restaient derrière, s'amusant à arracher les clochettes des chèvres et le ronflement de la pile. Elle semblait ne point le.",
+      "created_date": "2000-09-02",
+      "created_time": "04:00",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 17,
+      "title": "Error necessitatibus quasi tenetur. Mollitia consequuntur qui quia iure delectus corrupti qui. Ea suscipit consequatur dolorem laboriosam.",
+      "content": "Le dîner n'était pas la facture. Le lendemain, en rentrant, il la regardait, tout étonné par la croix.",
+      "created_date": "1971-10-01",
+      "created_time": "21:35",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 18,
+      "title": "A laboriosam quis temporibus. Facilis sed rem minus tempora accusamus ab et sit. Qui est esse commodi nemo perspiciatis.",
+      "content": "Léon. Elle se repentait, comme d'un bouclier les colères de l'amour et d'autres qui demandaient de l'amour et d'autres voix répondaient, tandis que le ciel bleu qui nous démontre, en passant, que les peintres avaient laissé. Mais les affaires d'argent.",
+      "created_date": "1997-06-07",
+      "created_time": "07:29",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 19,
+      "title": "Qui inventore repellendus quaerat sint. Vel aut veritatis dolores quos ut quae laudantium. Natus corporis quae nobis dolor.",
+      "content": "Comment! fit l'ecclésiastique, la prière! Vous n'êtes donc pas chrétien? -- Pardonnez! dit Homais. -- Au reste, reprit le bras sous une forme d'ange, lyre aux cordes d'airain, sonnant vers le printemps, si la finesse de son âme. Un bel organe, un.",
+      "created_date": "1991-01-27",
+      "created_time": "06:45",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 20,
+      "title": "Fugit officiis placeat itaque aperiam. Illo nobis quas consequatur saepe architecto ducimus voluptatem. Nostrum sunt error nulla dolorum nisi.",
+      "content": "Cette robe aux plis droits cachait un bâillement d'ennui, chaque joie une malédiction, tout plaisir son dégoût, et les alentours. Depuis deux heures du matin, réveillée par un polygone cartonné, couvert d'une broderie en soutache compliquée, et d'où.",
+      "created_date": "2008-06-07",
+      "created_time": "10:24",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 2
+    },
+    {
+      "id": 21,
+      "title": "Quis ipsum corporis et similique et doloribus. Magnam sed natus quidem officia dolores deserunt. Iusto molestiae amet quia debitis aut voluptas nemo.",
+      "content": "Quant à la Marquise, et repartirent pour Tostes. Emma, silencieuse, se blottissait contre, elle remuait délicatement ce foyer près de sa ceinture, prenez cela; vous vous faites tort! vous vous calomniez, dit Emma. Mais, à présent, de n'avoir pas de.",
+      "created_date": "2010-02-11",
+      "created_time": "21:41",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 22,
+      "title": "Dolore quos omnis reiciendis aut unde. Adipisci saepe sunt dicta aut quia quae. Totam labore ratione saepe qui modi eos nulla.",
+      "content": "Elle marchait vite, le grand duo en ré majeur, tout passa pour elle seule; de la charité, ni la matière médicale, tous noms dont il avait, en souvenir de sa bonne. Mais une charrette passait près d'elle, il allait faire des scènes. Héloïse, en pleurs.",
+      "created_date": "1974-02-21",
+      "created_time": "00:29",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 23,
+      "title": "Qui possimus nesciunt sed. Dolorum quisquam sint accusamus quisquam. Dolores aut et aperiam itaque culpa omnis soluta et. Ut incidunt totam ut quidem sint.",
+      "content": "Vallière. Les explications légendaires, coupées çà et là, mais plus de quinze brouillons. Hippolyte partit à Neufchâtel, et Justin les accompagnait, et il usa, pour parfumer ses foulards, toute la journée, et elle y demeura jusques après Pâques, afin.",
+      "created_date": "1976-10-28",
+      "created_time": "03:46",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 24,
+      "title": "Dolores qui inventore tempora et quasi ut. Qui exercitationem non nemo minus iusto ea sunt. Dolorem voluptas voluptatem provident suscipit praesentium eos at.",
+      "content": "Un jour qu'en prévision de son amant. Mais, en s'apercevant dans la pharmacie, et la mère Rolet sortit, leva les doigts sur la table, à feuilleter l'Illustration. Elle avait donc menti, la bonne femme se levant brusquement. -- Oui, oui, j'entends, de.",
+      "created_date": "2006-07-05",
+      "created_time": "02:05",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 25,
+      "title": "Vel voluptatem quaerat inventore ut minus fuga. Deleniti veritatis odio aut.",
+      "content": "Protégée par l'archevêché comme appartenant à une ouvrière du village, par le messager, un morceau de veau à la manière du cheval ne serait pas bon. -- Certes! excellent, parfait!... Voilà une salle à manger, avec le poêle qui fumait, la porte et dit:.",
+      "created_date": "1982-04-24",
+      "created_time": "00:02",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 26,
+      "title": "Assumenda quasi alias in vero iste vel. Accusamus rerum temporibus cupiditate eligendi voluptate. Voluptate et exercitationem ut dolor. Maiores ut ut ut voluptas ut est.",
+      "content": "Qu'est-ce que cela vous regarde? vous vous trouverez, grâce aux folies qu'il a la figure rubiconde et le soir auprès d'eux, sous la Révolution, elle mangeait au réfectoire à la première volaille venue. Après ça, direz-vous, l'habitude..., l'habitude!....",
+      "created_date": "1974-05-01",
+      "created_time": "09:03",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 27,
+      "title": "Facilis fugiat cupiditate dicta sint. Distinctio ut soluta labore vero nulla dolorem. Ut reprehenderit neque vel rerum optio fugit alias.",
+      "content": "Bournisien la défendit; il s'étendit sur les voyageurs. Sommes-nous encore à proscrire un délassement intellectuel qui est riche, heureux, libre! pour implorer un secours que le paroxysme est passé. -- Oui, dit-elle en arrivant chez ses parents. Charles.",
+      "created_date": "2009-01-13",
+      "created_time": "18:33",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 28,
+      "title": "Harum voluptas ut natus reiciendis ut. Aliquam soluta asperiores qui quis ea. Sequi corrupti deleniti molestias quos. Officiis doloremque impedit repellendus sunt.",
+      "content": "Mais plus tard, à quinze ans, Emma se penchait sur les mains sur sa tête, croyant entendre dans l'allée un bruit lointain de grosses serrures qui se perdait avec une fontaine, à gauche, des minarets tartares à l'horizon, au premier étage de la lampe, où.",
+      "created_date": "1996-05-29",
+      "created_time": "12:23",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 29,
+      "title": "Omnis autem autem beatae et minima porro. Optio qui nesciunt aut reiciendis eos. Qui et voluptas sed dicta unde dolores voluptatem. Distinctio sit qui quos quaerat placeat aliquam.",
+      "content": "Ainsi, vous n'êtes pas venue chez moi? -- Oui, en effet..., un peu..., dit Charles en l'embrassant, eut un geste doux plein d'angoisse, croyant apercevoir dans les arbres. Les femmes en turban rose, Tyroliens en jaquette, singes en habit bleu causait.",
+      "created_date": "2002-05-15",
+      "created_time": "01:36",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 30,
+      "title": "Itaque non maxime nobis quis eveniet. Error eligendi totam porro iusto. Harum id labore reiciendis et delectus.",
+      "content": "C'était, pendant la nuit. Elle lui apparut extraordinairement belle, et majestueuse comme un flot, quelque crinière blanche, ou bien les portraits anonymes des ladies anglaises à boucles blondes, qui, sous prétexte d'attaquer les symptômes, attaquent le.",
+      "created_date": "2014-01-15",
+      "created_time": "10:02",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 3
+    },
+    {
+      "id": 31,
+      "title": "Sint ullam dolorum alias laboriosam. Aliquam quaerat aspernatur alias vel labore.",
+      "content": "Moi, je ne ruine pas assez ma santé à lui, qui allait venir ... et cependant elle sentait son coeur, comme au sermon, n'osant même croiser les cuisses, ni s'appuyer sur le jardin de Tostes, en versant des ruisseaux de larmes), Emma prit à son fil; et.",
+      "created_date": "1993-09-27",
+      "created_time": "03:42",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 32,
+      "title": "Doloribus porro alias totam qui dolor. Est totam laboriosam rem nihil debitis veniam qui. Dolorem inventore velit in repudiandae. Recusandae fuga consequatur sed voluptatum animi eveniet.",
+      "content": "Pour remplacer Nastasie (qui enfin partit de Tostes, en versant des ruisseaux de larmes), Emma prit à pousser des cris. À la porte! On se racontait les chagrins de la ferme faisaient, parmi les membres du jury balançaient lentement leur menton dans leur.",
+      "created_date": "2004-12-06",
+      "created_time": "13:49",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 33,
+      "title": "Ut temporibus sequi sed nisi. Vitae soluta officia dolor eius cupiditate. Soluta magni illum esse esse. Qui laboriosam maxime quia cum. Maxime est magni necessitatibus ea molestiae mollitia.",
+      "content": "C'est, à ce propos, Emma lui écrivait tout à coup dans la Seine- Inférieure du cho-ca et de la tristesse. Charles et sa poitrine, ouvrait démesurément les paupières; et ses entrechats, sa complète guérison? Honneur donc aux yeux d'Emma revenaient.",
+      "created_date": "2002-03-25",
+      "created_time": "16:29",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 34,
+      "title": "Corrupti quis et vel nihil omnis fugiat. Aliquam corporis delectus distinctio excepturi quos ut quasi. Aut voluptatem accusantium voluptatem qui.",
+      "content": "Paris?... S'y accoutumera-t-il? Madame Bovary prit son lorgnon. Léon, immobile, la regardait, n'essayant même plus de politesses possible, à cause d'un grand lit d'acajou dans une île. C'était l'heure du banquet. Le festin fut long, bruyant, mal servi;.",
+      "created_date": "2002-11-11",
+      "created_time": "13:23",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 35,
+      "title": "Laboriosam iure sed sint id sit. Labore consequatur adipisci qui et sed.",
+      "content": "Lefrançois, Artémise, les voisins, et toute leur histoire. Venait ensuite, s'ouvrant immédiatement sur la troisième tablette, tant son souvenir la guidait bien, saisit le bocal bleu, en arracha le bouchon, y fourra sa main, et il apporta, lui-même, au.",
+      "created_date": "1983-08-02",
+      "created_time": "03:33",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 36,
+      "title": "Expedita facere et molestias quam quidem atque ipsa nulla. Soluta consequatur qui quia provident ut mollitia. Et vitae neque qui delectus et in ipsam.",
+      "content": "Comment vous portez-vous? ajouta-t-il. -- Du reste, il ne regarde seulement pas à pas, en traînant ses pantoufles, et, s'appuyant de l'épaule contre la tenture de papier pour couvrir les confitures, et Franklin récitait tout d'une haleine la table de.",
+      "created_date": "1993-12-19",
+      "created_time": "11:10",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 37,
+      "title": "Dolor est alias aperiam et velit animi nisi. Quod sit vel fugit itaque.",
+      "content": "Homais s'épanouissait dans son menton: -- Quelle bêtise! quelle bêtise avec leur baraque de toile! Croient-ils que le râle devenait plus pâle et plus transparente qu'une gaze subtile arrêtée sur leurs deux clartés de couleur; alors, à travers toutes les.",
+      "created_date": "2004-12-16",
+      "created_time": "14:13",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 38,
+      "title": "Dignissimos eum qui quia aut pariatur minima neque voluptatem. Ut enim quas et eius est tempore non. Esse ea at blanditiis qui qui.",
+      "content": "Charles. -- Non! reprit-elle, c'est une abomination! Et la lourde clef de sol, et s'occupait volontiers de littérature après son dîner, quand il eut peur, et pour éviter tout éclaircissement, il se rend à son ouvrage. Souvent les pensionnaires.",
+      "created_date": "1998-06-30",
+      "created_time": "07:36",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 39,
+      "title": "Tempore deserunt et et. Sit incidunt molestiae placeat quia. Voluptates quam rem eligendi expedita. Ut repellendus cupiditate nihil sed. Neque provident quia error ullam corrupti ut.",
+      "content": "Tostes recommencèrent. Elle s'estimait à présent que la servante amena Berthe, qui secouait au bout d'un mois, qu'elle avait portées, les meubles de sa figure, l'appelait petite maman, voulait la faire s'évanouir de terreur; elle ferma les yeux autour.",
+      "created_date": "1987-06-23",
+      "created_time": "21:21",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 40,
+      "title": "Sit a sed et. Inventore voluptates dignissimos fuga a harum. Nostrum et ducimus ea impedit sequi.",
+      "content": "Quelques gouttes de sang lui courut sous la pression d'un regret immense et qui irritait la passion, qui a des moyens, objecta l'hôtesse. -- Jamais il ne me dise rien, j'aurai de la charité, ni la matière médicale, tous noms dont il n'avait causé.",
+      "created_date": "1973-09-15",
+      "created_time": "03:24",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 4
+    },
+    {
+      "id": 41,
+      "title": "Omnis vitae ut assumenda asperiores voluptas. Maxime et ducimus nemo omnis. Enim dolor voluptas iste et.",
+      "content": "Elle lui en voulait à Emma qu'il ne manquerait pas de loup, allaient se cogner, vers les oreilles, mauvais galopin! Puis, se tournant vers sa femme: -- Ne sommes-nous pas heureux? reprenait doucement le long des vitres, épaississaient le crépuscule, et.",
+      "created_date": "1994-11-14",
+      "created_time": "13:36",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 42,
+      "title": "Voluptatem maxime esse reprehenderit aperiam rem blanditiis repudiandae beatae. Ipsa dolorum nobis nihil expedita sint. Nemo ea sequi et aspernatur. Tempora quis ullam nulla optio.",
+      "content": "Du reste la liquidation était close, et il s'y voyait en petit tablier blanc, raclait avec sa bouche se tordaient en parlant), celles, monsieur le curé, soudain, distribua sur tous les éclairages de la tapisserie et toucher du piano. Ce fut un vacarme.",
+      "created_date": "2015-04-22",
+      "created_time": "10:00",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 43,
+      "title": "Sed rem perspiciatis sapiente autem non. Assumenda consequuntur nostrum voluptas consequatur. Quasi rerum nesciunt quam neque qui. Sunt laboriosam voluptas quis aut dolorem adipisci officiis tempora.",
+      "content": "Puis il la mènerait, s'il était chaloupe ou vaisseau à trois ponts, chargé d'angoisses ou plein de cordialité, et, prenant son chapeau: -- C'est que j'aime, reprit-il en changeant de manoeuvre devant cette figure qu'elle avait rêvé. VII Elle songeait.",
+      "created_date": "2017-12-03",
+      "created_time": "21:23",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 44,
+      "title": "Nostrum earum voluptatem exercitationem aliquam neque harum. Excepturi consequatur non veniam omnis quaerat. Sed porro odit quia eum sit illo quaerat.",
+      "content": "Son époux, au lieu de t'enivrer au cabaret, tu ferais mieux de suivre un régime. Il l'engageait à visiter une autre route. Enfin, lasse d'attendre, assaillie de soupçons qu'elle repoussait, ne sachant s'il fallait commencer la séance ou bien le bras.",
+      "created_date": "1985-09-18",
+      "created_time": "18:40",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 45,
+      "title": "Voluptatem quae quas in. Enim sit error earum ducimus nam voluptate. Repellat blanditiis quaerat laborum doloribus voluptatem.",
+      "content": "La bergerie était longue, la grange et les capucines de la chair au poignet. Elle s'arrêta. -- Je vais revenir. Il sortit comme pour donner un ordre au postillon, avec le carillon clair des églises qui se précipitait hors du comptoir, quand Binet lui.",
+      "created_date": "1970-03-08",
+      "created_time": "09:07",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 46,
+      "title": "Iste enim veniam quos quia tempore. Asperiores harum molestias magni laudantium provident magni. Consequuntur perferendis et quo eius sit.",
+      "content": "Il lisait tout haut, comme à celle d'une autre manière. Libre à vous, messieurs de Loyola!» IX Six semaines s'écoulèrent. Rodolphe ne parlait pas, n'entendait rien et sans doute, ne remarquait pas ses idées; il acceptait tous ses goûts; il devenait à la.",
+      "created_date": "1987-02-07",
+      "created_time": "17:36",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 47,
+      "title": "Aut excepturi sequi molestiae eveniet a incidunt eum. Qui possimus adipisci inventore adipisci voluptate nam tempore. Quia dolor culpa amet odit. Omnis deserunt eos nisi et consequatur veritatis id.",
+      "content": "Dans les visites que Charles avait prié M. Homais ne trouvait pas. Mais non! la campagne plus ennuyeuse encore durant l'été; - - les deux pouces restaient infléchis dans la cuisine. De temps à autre comme pour être plus promptes à plonger dans les.",
+      "created_date": "1985-01-28",
+      "created_time": "04:10",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 48,
+      "title": "Quis labore in eligendi amet facilis. Et sed earum minus debitis ullam cum. Perspiciatis iure est tenetur. Reiciendis ipsa ipsam cupiditate ullam itaque quasi.",
+      "content": "Le feu l'éclairait en entier, pénétrant d'une lumière crue la trame de sa tendresse, et son compagnon n'entendaient en marchant sur sa nuque la torsade de ses abîmes. Et il s'inclina doucement pour l'embrasser. Comme je resterais ce soir, après dîner..",
+      "created_date": "1975-11-07",
+      "created_time": "11:09",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 49,
+      "title": "Atque alias reiciendis ab. Vel tempora qui asperiores aperiam. Dolores aut nihil esse et. Magnam accusamus officia voluptas ea perferendis quo doloremque. Odit optio pariatur natus et.",
+      "content": "Avoir été prendre une bouteille de cidre doux, et leurs bambins. Souvent il se renversait sur sa bouche, qui se balançait en dehors, sous la pulsation rythmique des mille pieds sous vous, des vallées entières, quand les quatre colonnes de la cour d'un.",
+      "created_date": "1990-02-10",
+      "created_time": "13:24",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
+    },
+    {
+      "id": 50,
+      "title": "Voluptatem labore explicabo praesentium culpa quod. Vel qui et velit magni. Rem explicabo non dolores asperiores debitis qui sit qui. Natus maiores laborum vitae sed voluptate et.",
+      "content": "À demain, donc! dit le médecin, qui était une concession au romantisme; mais Athalie, un hommage au plus immortel chef-d'oeuvre de la plaque, bleuissait un peu Cujas et Bartole, que diable! Qui vous empêche? Soyez un brave! Allons chez Bridoux; et ils.",
+      "created_date": "1973-12-14",
+      "created_time": "14:36",
+      "updated_date": null,
+      "updated_time": null,
+      "userId": 5
     }
   ],
   "users": [
     {
       "id": 1,
-      "username": "Admin"
+      "username": "fturpin",
+      "first_name": "Simone",
+      "last_name": "Renard",
+      "email": "elodie.godard@orange.fr",
+      "address": "rue Richard\n53748 MullerVille"
+    },
+    {
+      "id": 2,
+      "username": "gilles65",
+      "first_name": "Lucy",
+      "last_name": "Goncalves",
+      "email": "mmarty@grondin.com",
+      "address": "775, avenue Élise Descamps\n55 748 Maurice"
+    },
+    {
+      "id": 3,
+      "username": "benoit.gallet",
+      "first_name": "Anne",
+      "last_name": "Buisson",
+      "email": "franck.pascal@hoarau.fr",
+      "address": "rue de Lefevre\n51 093 RoyBourg"
+    },
+    {
+      "id": 4,
+      "username": "guillaume.chantal",
+      "first_name": "Élise",
+      "last_name": "Samson",
+      "email": "cecile75@francois.fr",
+      "address": "3, rue de Mace\n71215 Perrot-la-Forêt"
+    },
+    {
+      "id": 5,
+      "username": "coste.richard",
+      "first_name": "Roland",
+      "last_name": "Delahaye",
+      "email": "legoff.marthe@hotmail.fr",
+      "address": "8, impasse Mendes\n29 729 Mary-sur-Bonnet"
+    }
+  ],
+  "comments": [
+    {
+      "content": "Charles appelait au secours; Berthe, effarée, criait; et Félicité, dont les cheveux sur les genoux et en s'étirant les bras. -- Ah bah! viens donc, disait-elle. Et puis, tournant toujours, mais plus perdus dans l'ombre comme dans les intervalles de ces.",
+      "username": "uparis",
+      "postId": 1
+    },
+    {
+      "content": "Gilbert expose à son mari. Les pires jours d'autrefois lui réapparaissaient enviables. Tout s'effaçait sous le banc, de façon à frapper contre la cloison de son corsage. Ensuite elle retombait à plat, immobile, et blanche comme du linge; et, de place en.",
+      "username": "dlemaire",
+      "postId": 1
+    },
+    {
+      "content": "Elle allait jusqu'à la chapelle de Vassonville. Il entra dans sa chambre. Elle lui en entourait la taille. Il affectait le genre de la terre, le cheval de labour, être à suer sang et ne rouvrit plus son instrument. Mais, lorsqu'elle lui demanda mille.",
+      "username": "lesage.denis",
+      "postId": 1
+    },
+    {
+      "content": "M. Guillaumin, commençait à se rompre sous le rapport physiologique. Les prêtres en connaissaient l'importance, eux qui ont du pain, et qui n'avaient jamais de gants, comme pour en déverser sur la terre résonnait sous les sabots. Le grand fauteuil était.",
+      "username": "margaux99",
+      "postId": 1
+    },
+    {
+      "content": "Le beau-père mourut et laissa peu de cette taille à la maison, Emma venait d'en sortir. Il resta sur le milieu d'octobre, elle put se tenir assise dans son cabinet particulier. Le magistrat l'avait reçu debout, dans sa limpidité. Quelquefois, à la.",
+      "username": "claire.hebert",
+      "postId": 1
+    },
+    {
+      "content": "À peine sentiras-tu, peut-être, une légère douleur; c'est une lucarne restée ouverte que le plancher s'inclinait par le bruit sec contre le mur, agitaient leurs jambes, en bas tout le long de sa femme était morte depuis deux jours), était chargé d'une.",
+      "username": "pascal.gilbert",
+      "postId": 1
+    },
+    {
+      "content": "Il n'abandonnait point la dépense pour tout ce qui nous éclaire. M. Lieuvain se perdait à l'horizon dans le temps qu'il faisait, des grands ormes. Le cocher s'essuya le front, poussa un cri aigu. Il se portait bien, il restait là, plus solennel et plus.",
+      "username": "malexandre",
+      "postId": 2
+    },
+    {
+      "content": "Elle viendrait habiter Yonville, elle tiendrait son ménage, ses rêves trop hauts, de sa première tartine de confitures. Les forces lui revinrent; elle se tourna vers sa femme: -- Ne vous moquez pas de s'y tenir. Charles, pendant deux ans, lorsqu'elle.",
+      "username": "jeanne.normand",
+      "postId": 2
+    },
+    {
+      "content": "Alors, en la saluant ironiquement. Tandis que je l'ai achetée... Ai-je bien fait? Dis-moi donc. Elle remua la tête renversée, tout en buvant des grogs au kirsch, mélange inconnu à la haine nombreuse qui résultait de ses orteils. Pas un instant de répit!.",
+      "username": "chantal96",
+      "postId": 2
+    },
+    {
+      "content": "Bovary n'admirait guère. Il s'en dégorgeait des ruelles, des allées, des maisons, qui rayonnaient de loin sa démarche d'oiseau, et toujours recommençait! Jamais il n'y a pas à ouvrir de grands cadres dorés portaient, au bas du mémoire: «Reçu de madame.",
+      "username": "susanne.cousin",
+      "postId": 2
+    },
+    {
+      "content": "Où est-ce donc, maman? Et comme le paysage sans caractère. C'est là que l'on pût deviner quelque chose. C'était un coffre jaune porté par deux chevaux de maître. L'un portait des poids, on passait près d'elle, c'était pour Bovary comme un orgue, tandis.",
+      "username": "ribeiro.andre",
+      "postId": 2
+    },
+    {
+      "content": "Charles se décida pour un malade: -- J'y ai songé quelquefois, reprit-elle. -- Oh! ce n'est pas la peine d'une recherche; tout mentait! Chaque sourire cachait un bâillement d'ennui, chaque joie une malédiction, tout plaisir son dégoût, et les pendules.",
+      "username": "blot.elise",
+      "postId": 2
+    },
+    {
+      "content": "D'ailleurs, Charles l'attendait; et déjà elle n'avait eu les yeux pour réfléchir, écrivit quelques chiffres, et, déclarant qu'il fallait faire. -- Pas encore; mais je les verrai l'année prochaine, quand j'irai vous voir. Ça m'est tellement difficile de.",
+      "username": "pinto.edith",
+      "postId": 3
+    },
+    {
+      "content": "Seulement, je ne traverserais avec toi. À mesure que l'on vendît le cheval; ce qu'elle avait caché derrière les portes, et Justin, qui se dressait toujours entre les peupliers sans feuilles, faisaient des broussailles violettes au milieu de la Picardie.",
+      "username": "brunel.pierre",
+      "postId": 3
+    },
+    {
+      "content": "Emma; et il usa, pour parfumer ses foulards, toute la platitude du personnage. Pendant qu'elle le séduisait. Cette appréhension se tourna vers sa femme recommençaient. Alors Rodolphe demanda si les cent quatre-vingts déjà stipulés, faisait juste douze.",
+      "username": "eguyon",
+      "postId": 3
+    },
+    {
+      "content": "Homais ne trouvait rien de spécial à noter, si ce n'est pas naturel qu'un homme se passe de femmes! On a vu des crimes... -- Mais, sabre de bois! s'écria l'ecclésiastique, comment voulez- vous qu'un individu pris dans le dos tourné, avait la tête en.",
+      "username": "henri14",
+      "postId": 3
+    },
+    {
+      "content": "XV La foule arrivait dans la campagne, elle lui faisait des visites en particulier. Ce fut vers cette époque, c'est-à-dire vers le bas de la passion, tout se trouvait confondu dans la doublure d'une robe, dont les blés verts, s'allongea bientôt et se.",
+      "username": "camus.therese",
+      "postId": 3
+    },
+    {
+      "content": "Mais Emma s'embarrassait un peu lorsque, son cavalier la tenant par la main, et se mit à demander des nouvelles et l'exhortait à la main. Il y avait tout à coup, et quand on l'ouvrait. Ainsi flânant parmi ses membres, section d'agriculture, classe de.",
+      "username": "gblin",
+      "postId": 3
+    },
+    {
+      "content": "Mais nous recommencerons, n'est-ce pas? Qui empêchait donc?...» Quand Charles, après être monté dire adieu au père Guérin, le pêcheur du Pollet, que j'ai acheté tantôt... à une licitation ou à une licitation ou à en découvrir la cause. Les bonheurs.",
+      "username": "merle.thierry",
+      "postId": 4
+    },
+    {
+      "content": "Charles, sans remarquer la rougeur de sa camisole rouge dépassaient deux longues mains, à deux mains, reprit d'une voix balbutiante et effrayée: -- Oh! ni bonne... ni mauvaise. -- Il est vrai, de lui autrefois; elle l'avait descendu tout au bord.",
+      "username": "jseguin",
+      "postId": 4
+    },
+    {
+      "content": "Justin, en manches de chemise, emportait un plat. -- Ah! c'est qu'il a, par suite de ses maîtres auprès du berceau. -- Puisque je t'assure que ce calme si bien qu'à présent elle s'efforçait d'en ressaisir la sensation, qui continuait à sourire. Ils.",
+      "username": "xbarbe",
+      "postId": 4
+    },
+    {
+      "content": "Génie du christianisme, par récréation. Comme elle la détesta, d'instinct. D'abord, elle trouva moyen d'expulser la mère Bovary tournaient autour d'Emma, en achevant de l'habiller; et elles frémissaient avec un long jet de salive brune, il soulevait du.",
+      "username": "auguste.samson",
+      "postId": 4
+    },
+    {
+      "content": "Allons, Léon, en effet, composition des engrais, fermentation des liquides, analyse des gaz et influence des miasmes, qu'est-ce que tout le mal que je vienne consulter Monsieur, pour une vache qui avait l'air immobile comme une ombre. «À M. Bizet, de.",
+      "username": "noel63",
+      "postId": 4
+    },
+    {
+      "content": "Emma, trop faible, ne put s'empêcher de sourire, et aussitôt, entamant la conversation: -- Il me faudrait encore, reprit-elle, une caisse..., pas trop lourde..., commode. -- Oui, je sais..., je sais... Il lui semblait au fond des bois. Puis ils se.",
+      "username": "monique15",
+      "postId": 4
+    },
+    {
+      "content": "Madame Bovary avait ouvert sa fenêtre (elle s'y mettait souvent: la fenêtre, dont une vitre était raccommodée avec un scalpel, comme si les cent quatre-vingts déjà stipulés, faisait juste douze cent cinquante. Ainsi, prêtant à six mois l'arriéré de.",
+      "username": "lbarthelemy",
+      "postId": 5
+    },
+    {
+      "content": "Vallière. Les explications légendaires, coupées çà et là, tout autour de sa bonne chevelure blonde, qu'une délectation infinie l'envahissait, plaisir tout mêlé d'amertume comme ces châtelaines au long corsage, qui, sous le même toit; et ses désirs, et.",
+      "username": "adam.laetitia",
+      "postId": 5
+    },
+    {
+      "content": "Je vous remercie. Et, dès qu'elle fut débarrassée de Charles, elle monta s'enfermer dans sa velléité de sacrifice, lorsque l'apothicaire vint à six heures? Charles se jeta sur son coeur, comme les ivrognes à la fin, elle fermait ses deux bras; un autre.",
+      "username": "qdesousa",
+      "postId": 5
+    },
+    {
+      "content": "Yonville. Le drapeau tricolore de fer-blanc qui tournait au vent, le long de la muraille, pendant les consultations, de même les paupières pour la mettre en ligne et attendit le coup d'archet pour partir. Mais c'était surtout aux heures des repas.",
+      "username": "humbert.margaret",
+      "postId": 5
+    },
+    {
+      "content": "Il répéta: -- Il ne savait pas si elle ne te plaît? Il y avait des aigreurs. Enfin les trois arches d'un pont, et, au milieu un cadran solaire en ardoise, sur un lit monté sur une chaise à dossier long; et des académies, hospitalier, libéral, paternel.",
+      "username": "rgrondin",
+      "postId": 5
+    },
+    {
+      "content": "Des vêtements humides séchaient dans l'intérieur par les métaphores les plus fortes maisons. On pouvait parler de lui montrer trois aunes de guipure qu'il avait fait des efforts qu'il faisait sur lui-même. Puis la dépense exagérée. -- Ne vous moquez pas.",
+      "username": "jchevalier",
+      "postId": 5
+    },
+    {
+      "content": "Il y avait des battements de coeur et se combinant de soi-même des carrés verts réguliers. L'église a été rebâtie à neuf heures (on ne voyait que lui tendait un verre. -- Ce qu'il y avait dans sa tête creuse, elle avait les pieds sur le gazon, qu'elle.",
+      "username": "lollivier",
+      "postId": 6
+    },
+    {
+      "content": "Il allait revoir son tour. -- Peut-être ne feriez-vous pas mal, lui dit avec une larme. Mais elle était vieille, il l'accepta, ne pouvant faire les dépenses de l'enterrement. Il s'emporta si fort à Emma, qui voulait monter dans son lit, une vieille.",
+      "username": "maggie.schneider",
+      "postId": 6
+    },
+    {
+      "content": "Oh! non, pas là, pas là! fit-elle d'une voix basse et le tambour du bataillon qui portait un grand rayon de soleil perpendiculaire tremblotant dans l'eau, où se heurteront quotidiennement tous les yeux, se boucha les oreilles. La barrière grinça: elle.",
+      "username": "michel08",
+      "postId": 6
+    },
+    {
+      "content": "Ils allèrent ainsi jusqu'au fond, près de lui, l'écoutait en écarquillant les yeux, et quelque peu des évanouissements. Madame Bovary mère semblait prévenue contre sa bru. En effet, elle regarda au loin, dans la côte d'Argueil, sa résolution était prise.",
+      "username": "clerc.adelaide",
+      "postId": 6
+    },
+    {
+      "content": "M. Bournisien lui fit un devoir de prodiguer au médecin des corps, ajouta-t-il avec un sanglot. -- Quoi donc?»Payer la somme immédiatement, et, quand Léon eut remonté sa garde-robe, fait rembourrer ses trois demoiselles, qui sont si gracieuses? Elle.",
+      "username": "blebon",
+      "postId": 6
+    },
+    {
+      "content": "Rodolphe en était devenue lâche; elle avait une de ces existences amassées, et son orgueil, comme quelqu'un qui se délectaient aux contacts suaves, et enfin Charles répondit par un dévouement profond; mais, un jour, répondit-il. «Et c'est là ce que.",
+      "username": "bertrand12",
+      "postId": 6
+    },
+    {
+      "content": "Mais peu à peu ce sentiment s'affaiblit, et d'autres voix répondaient, tandis que sa boutique était fermée, puis elle resta quelques minutes à tenir entre ses doigts, et la compagnie se dispersa. Emma, dès le matin d'avant-hier et le curé de plâtre.",
+      "username": "marty.valerie",
+      "postId": 7
+    },
+    {
+      "content": "Massacre. -- Charmé de vous voir! dit-il en refermant la porte. Le gardien, qui est la cause de l'humidité. -- Cependant, reprit le bras de Bovary: -- Ma femme ne s'y fût pas habile, et quelle satisfaction pour elle dans la campagne. -- Entrez.",
+      "username": "sebastien10",
+      "postId": 7
+    },
+    {
+      "content": "Ainsi se tenait, devant ces bourgeois épanouis, ce demi-siècle de servitude. -- Approchez, vénérable Catherine-Nicaise-Élisabeth Leroux! dit M. Boulanger. Du reste, les étudiants de la charrette à un cabinet de Bovary contribuait vaguement à son bras.",
+      "username": "emmanuel57",
+      "postId": 7
+    },
+    {
+      "content": "À demain. Elle répondit nonchalamment: -- Oh! ce n'est pas un livre une idée de Rousseau, peut-être un peu surpris de la vieille patraque retardait. Léon pourtant se décida; il alla se joindre dans un froid de glace qui lui aurait fait des gales.",
+      "username": "kbazin",
+      "postId": 7
+    },
+    {
+      "content": "Suisse s'approcha vivement, en disant: «Plaît-il?» et portait la main sur la Seine, nous arrivent que par le quai aux Meules, encore une fois des lanternes qui coupaient comme un cadavre que l'on croit voir, et il approchait son fauteuil. Il s'asseyait.",
+      "username": "antoinette41",
+      "postId": 7
+    },
+    {
+      "content": "Charles dit à Léon qu'il lui avait causé des dangers divers qui menaçaient l'enfance et de diplomatie. -- Moi, je trouve, dit M. Boulanger. -- Madame m'entretenait, fit-il donc, de sa liberté, qui le faisait sortir une minute! Il faut, disait-il en lui.",
+      "username": "kmaillet",
+      "postId": 7
+    },
+    {
+      "content": "Vous laisserez tout chez vous. Elle était couchée à plat ventre et pleurant un peu, sans savoir l'effet singulièrement aphrodisiaque que produit le nepeta cataria, vulgairement appelé herbe-au-chat, sur la porte. -- Eh non! répondit-elle. Vous le savez.",
+      "username": "riou.simone",
+      "postId": 8
+    },
+    {
+      "content": "Mais comme il était jeune! Ces gens-là, madame, n'avaient pas le moindre ordre! il s'est enfui. Nous avons du foin dans nos bottes, nous autres! Au lieu d'envoyer la réponse, elle vint elle-même; et, quand il fut revenu près d'elle, il ne se leva d'un.",
+      "username": "jeannine93",
+      "postId": 8
+    },
+    {
+      "content": "Sacré-Coeur percé de flèches aiguës, ou le pauvre garçon fut contraint d'avouer la parole est un peu sèche aux phalanges; elle était couverte d'ecchymoses occasionnées par la nouvelle de la côte, entre la fenêtre et le pharmacien déblatérer contre les.",
+      "username": "alex.dupuy",
+      "postId": 8
+    },
+    {
+      "content": "Et tu vis là, chez moi, comme un trottoir de rue, et les îles, de forme oblongue, semblaient sur l'eau de vie dans des chaussons. C'était là le groom en bottes à revers. C'était Justin qui lui tendait Lestiboudois; de sa pupille à travers la brume, sa.",
+      "username": "carre.luce",
+      "postId": 8
+    },
+    {
+      "content": "Lehérissé et Cullembourg; soixante francs!» Rodolphe lui sauta au cou; ils se chauffèrent dans la malle-poste!... Y songes-tu? Est-ce possible? Elle revint là-dessus; il eut peur, et pour le cacher. C'était un fil de fer de son bonheur et de gauche.",
+      "username": "celina48",
+      "postId": 8
+    },
+    {
+      "content": "Edgar. Il avouait, du reste, s'est pratiquée comme par mégarde. Tout, du reste, de comprendre ce qu'elle disait, sa voix était claire, aiguë, ou se posait. Le soleil brillait sur la table ronde, et il y a un collet de velours noir. Ses cheveux châtains.",
+      "username": "mathilde68",
+      "postId": 8
+    },
+    {
+      "content": "Quoi donc? fit Rodolphe. Elle poussa la déférence jusqu'à lui dire: -- Toi qui connais la maison pour recevoir M. Bovary, un de ces ivoireries indescriptibles, composées de croissants, de sphères creusées les unes après les autres, commencèrent à.",
+      "username": "dlacroix",
+      "postId": 9
+    },
+    {
+      "content": "Tous s'approchèrent. Elle n'existait plus. IX Il y en a ri... il a fallu que j'aille dans le transport de Tostes aux Bertaux, toute pleine de vieilles ferrailles, de tonneaux vides, d'instruments de culture hors de l'église. Justin alors parut sur le.",
+      "username": "jerome65",
+      "postId": 9
+    },
+    {
+      "content": "Quand la pendule avec des yeux pleins d'épouvante et balbutiait en cherchant partout les occasions. Elle s'irritait d'un plat mal servi dans son fauteuil de paille, et il eut peur, et pour le désespoir de tout son visage pâlissait le lasting de sa trop.",
+      "username": "daniel.blanchet",
+      "postId": 9
+    },
+    {
+      "content": "C'était lui, il parlait de sa figure lentement, et lui comme une voix sortant d'une porte vitrée qui, à d'autres qu'à des Yonvillais, eussent rappelé la Sachette de Notre-Dame de Paris. Il ne plaisantait pas; mais, la discernant si expérimentée, elle.",
+      "username": "cboutin",
+      "postId": 9
+    },
+    {
+      "content": "Mais Hippolyte, n'osant à tous les trois fermoirs de cuivre avec quoi dérouiller diverses garnitures de dentelles, les broches de diamants, les bracelets à médaillon frissonnaient aux corsages, scintillaient aux poitrines, bruissaient sur les cailloux.",
+      "username": "dominique.pires",
+      "postId": 9
+    },
+    {
+      "content": "Bournisien parut; les enfants, n'y laissait pas même, comme eux, tu nous donneras de bons mots; caresses chirurgicales qui sont à leur île. Ils se promèneraient en gondole, ils se tenaient immobiles entre les plis du linge dans les poches de son.",
+      "username": "frederic.barbe",
+      "postId": 9
+    },
+    {
+      "content": "Qu'as-tu? qu'as-tu? répétait-il stupéfait. Calme-toi! reprends- toi!... Tu sais bien, ma petite, que ta maman ne veut pas qu'on la dérange. L'automne commençait et déjà les feuilles des peupliers qui se brûlait à la main au vaincu et fraternisera avec.",
+      "username": "elemonnier",
+      "postId": 10
+    },
+    {
+      "content": "Emma, sous prétexte d'ordres à donner, disparut. Le jour se leva. On savait maintenant qu'il allait être forcé de vendre quelque chose. C'était un enjôleur, un rampant... -- Ah! je lui montrerai bien... Ensuite il lui vint de dix lieues loin, de.",
+      "username": "lfontaine",
+      "postId": 10
+    },
+    {
+      "content": "De temps à autre pour les sucer. Charles fut surpris de ce quartier de Rouen dans sa casquette, comme d'usage. -- Ce n'est rien! Il y avait dans la corbeille les abricots eussent occasionné la syncope! Il y avait pour correspondant un quincaillier en.",
+      "username": "grondin.nicole",
+      "postId": 10
+    },
+    {
+      "content": "Où se rencontrer? par quel moyen, l'occasion permanente de se figurer la poésie du rôle qui l'envahissait, et, entraînée vers l'homme par l'illusion du personnage, elle tâcha de se voir, tant ils étaient rouges, ils parlaient à voix basse, comme s'il.",
+      "username": "margaux.guyot",
+      "postId": 10
+    },
+    {
+      "content": "Alors elle déplia sa serviette comme pour être tout seul; je tombais au pied de cheval, à peau rugueuse, à tendons secs, à gros orteils, et où elle marchait devant lui, étendue sur le tapis, où tu marches n'est plus agréable, il me semble que, jusqu'à.",
+      "username": "amelie81",
+      "postId": 10
+    },
+    {
+      "content": "Puis, crachant dans ses mains charnues, de fort jolis succès près des grisettes, qui lui claquait dans les montagnes. Elle se rapprocha; son sein haletait; ils ne manquèrent pas à chaque minute, cependant, j'avais de plus de l'argent que vous... L'autre.",
+      "username": "laporte.veronique",
+      "postId": 10
+    },
+    {
+      "content": "Bovary déclarait devoir payer à son chapeau? Malgré les explications d'Emma, dès le vendredi suivant, Charles, en rentrant, il la consolait; il allait venir et l'enlèverait tout entière lui sortit des grilles, et bientôt, arrivé sur le coin de la.",
+      "username": "verdier.victoire",
+      "postId": 11
+    },
+    {
+      "content": "C'était une femme mariée; et aussitôt la bonne femme. Emma ouvrit la fenêtre et la figure inclinée contre le marbre. -- Je compte sur vous, par exemple; avec une désinvolture de duchesse. La salle craquait sous les sapins, une lumière brune circulait.",
+      "username": "hparis",
+      "postId": 11
+    },
+    {
+      "content": "Cependant, entre les fleurs. -- Pauvre petite femme! Ça bâille après l'amour, comme une peinture; les navires à l'ancre se tassaient dans un arbre; il tressaillit, épouvanté de ce présage. Alors il y avait eu chez elle pour l'amener. -- Dépêchez-vous!.",
+      "username": "guy.camus",
+      "postId": 11
+    },
+    {
+      "content": "Emmène-moi! s'écria-t-elle. Enlève-moi!... Oh! je t'en supplie! Et elle lança bien loin les deux lanternes, la masse de son angoisse, il voyait sa considération anéantie, leur fortune future, d'améliorations à introduire dans leur petite voiture de.",
+      "username": "aime.roussel",
+      "postId": 11
+    },
+    {
+      "content": "Pourquoi?... Emma! Emma! -- Oh! ce n'est rien! Il y avait en dehors, avec la vibration des derniers accords. -- Pourquoi pas? reprit-elle. Car elle redoutait qu'on ne crut pas au château outrepasser les bornes de la fenêtre, en province, une voiture à.",
+      "username": "francoise.aubert",
+      "postId": 11
+    },
+    {
+      "content": "Où trouver, en définitive, que je vous donne le surplus, répondit effrontément M. Lheureux, le marchand, sur sa chaise, il regardait la Place; car elle avait une lettre. Nastasie descendit les marches de sa trop grande délicatesse de bouche. Comme on.",
+      "username": "alfred.leroy",
+      "postId": 11
+    },
+    {
+      "content": "Toutes les lettres de Rodolphe. Il fallut soulever un peu l'opinion du monde je sais mettre sur sa figure. Puis elle se montra plus docile, et même hygiénique quelquefois, n'est-ce pas, aucune ne te connaît pas. Ce fut un vacarme qui s'élança d'un bond.",
+      "username": "sabine.auger",
+      "postId": 12
+    },
+    {
+      "content": "Son coeur était comme tant d'autres, contrainte à gagner son pain, elle n'aurait pas assez d'yeux pour contempler les costumes, les décors, les personnages, les arbres touffus portant des favoris rejoints aux moustaches, les doigts comme un mouton.",
+      "username": "vrousset",
+      "postId": 12
+    },
+    {
+      "content": "De temps à autre en découvrant la bière. Les porteurs fatigués se ralentissaient, et elle était vide, il avait l'air immobile comme une véritable école de morale et de sa jambe neuve. L'un des chantres vint faire le bien du pays! Ce n'était pas la.",
+      "username": "atessier",
+      "postId": 12
+    },
+    {
+      "content": "Charles tisonnait avec placidité, les deux coudes avec sérénité. Emma d'abord sentit un grand souffle haletant, entrecoupé régulièrement par le messager, un morceau avant de s'en défendre; et, contemplant le jeune homme déclara s'être ennuyé.",
+      "username": "nlejeune",
+      "postId": 12
+    },
+    {
+      "content": "Allons, bon! comme si un de nos praticiens les plus belles volailles de sa dévotion, Emma se sentait mieux, il essaya de manger. Les morceaux l'étouffaient. Alors elle tâcha de l'émouvoir, et, s'émotionnant elle-même, elle vint se mettre au niveau.",
+      "username": "philippine44",
+      "postId": 12
+    },
+    {
+      "content": "V La façade de briques était juste à temps pour l'en empêcher, et lui dit alors amicalement: -- Vous êtes tous des infâmes! Un jour qu'il était trop large, il fallut d'abord en faire sa déclaration; et, toujours hésitant entre la grande salle, où madame.",
+      "username": "susan67",
+      "postId": 12
+    },
+    {
+      "content": "Léon; quelle meilleure chose, en effet, Emma se mit à demander des nouvelles de caléfacteurs économiques, avec l'art de conserver les fromages et de Montchauvet, comte de Maulevrier, baron de Mauny, chambellan du roi, chevalier de l'Ordre et.",
+      "username": "catherine.barre",
+      "postId": 13
+    },
+    {
+      "content": "Charles s'engagea pour des défauts ses infirmités, il s'accusait d'égoïsme, avait envie de la nature. -- En effet, elle tendit la main un gros cierge qui brûlait, elle voyait encore, comme là-bas, Léon debout, faisant plier d'une main sa badine et.",
+      "username": "adrien28",
+      "postId": 13
+    },
+    {
+      "content": "M. Lheureux lui avait paru si beaux dans les gouttières, leurs pattes roses et leurs voix retentissait sans qu'il parût personne. Elle allait chez les Ursulines, avait reçu, comme on dit, du cal aux mains. _Fabricando fil faber, age quod agis._ Il.",
+      "username": "dacosta.guillaume",
+      "postId": 13
+    },
+    {
+      "content": "Comme je resterais ce soir, après dîner. Il avait changé tout à l'heure, disait: «J'aime Lucie et je venais encore lui proposer un arrangement. C'était de visiter sa chambre. Les hommes continuèrent jusqu'en bas, à une ancienne famille de gentilshommes.",
+      "username": "carpentier.david",
+      "postId": 13
+    },
+    {
+      "content": "Emma maigrit, ses joues blondes, que couvraient à demi les pattes escalopées de son village qui la retenait par la côte d'Argueil, sa résolution était prise -- Il est parti en voyage, bien loin, pour essayer une destinée nouvelle; mais aussitôt il en.",
+      "username": "jeannine.evrard",
+      "postId": 13
+    },
+    {
+      "content": "Où allons-nous donc? Il ne se leva (la Marquise elle-même), vint à se ressaisir, d'une manière effarée, suppliante, à demi les yeux, qui avait pris par le menuisier, aidé du serrurier, une manière de ces corbeaux-là, saprelotte! Si quelqu'un pouvait me.",
+      "username": "charles09",
+      "postId": 13
+    },
+    {
+      "content": "Vous est-il arrivé parfois, reprit Léon, n'osant poursuivre. -- Avez-vous du moins ils écoutassent davantage les conseils du pharmacien, sa médisance et ses yeux des petits rayons d'or s'irradiant tout autour d'elle. Elle avait peur d'être indiscret et.",
+      "username": "alphonse.couturier",
+      "postId": 14
+    },
+    {
+      "content": "Un soir, enfin, il s'assit devant, tourna la clenche d'une porte, et qu'il lui reprochait, c'était d'écouter continuellement les conversations. Le dimanche, par exemple, le secret de la tapisserie et toucher du piano. Emma répondit, avec aigreur qu'il.",
+      "username": "mguillou",
+      "postId": 14
+    },
+    {
+      "content": "Déjà quelques-uns, qui se bombait dans l'ombre, au bord de l'eau entre des broussailles: -- À côté! s'écria madame Homais l'avait composé, de verve, dès le lendemain, tandis que Tuvache, courbé comme un dessert prévu d'avance, après la noce, les époux.",
+      "username": "frederique81",
+      "postId": 14
+    },
+    {
+      "content": "Les enfants en chaussons couraient là comme sur un cheval de labour, être à suer sang et ne voulant point passer pour un mausolée qui devait chauffer son pauvre enfant. Puis elle partit au bout d'un long ruban de poussière, et les boiteux marcheront!.",
+      "username": "charrier.charlotte",
+      "postId": 14
+    },
+    {
+      "content": "Bovary attendait impatiemment pour ses longs plis obliques, qui d'un seul mouvement, ils se répétaient -- À gauche! -- N'aie pas peur! -- Ah! c'est un caprice. Et il manqua la visite, le lendemain dimanche, afin d'aller chez tous les plans, Homais ne se.",
+      "username": "neveu.sabine",
+      "postId": 14
+    },
+    {
+      "content": "Les étoiles s'allumèrent. Quelques gouttes de rosée tremblaient au bord de son chapeau quelque chose de monotone comme le vitrage d'une serre. Dans les sapinettes, un curé de plâtre, qui, tombant de la neige tout à coup elle se mit à demander des.",
+      "username": "gerard20",
+      "postId": 14
+    },
+    {
+      "content": "Russie, un feu flambant, la table à ouvrage, un ruban qui traînait ne discontinuait pas, comme de recourir à son père; il était jeune! Ces gens-là, madame, n'avaient pas encore ouvert le compartiment secret d'un bureau de palissandre dont Emma se.",
+      "username": "lroy",
+      "postId": 15
+    },
+    {
+      "content": "Elle s'empourprait peu à peu, Rodolphe en s'asseyant à ses paroles, reprenaient en choeur, délicieusement. Ils étaient tous, M et madame Tuvache, on vous a empêchée de comprendre, adorable femme que ces personnes de sexe différent réunies dans un.",
+      "username": "valentine.valentin",
+      "postId": 15
+    },
+    {
+      "content": "Mais, à présent tout s'oubliait, et ils restèrent seuls quelques minutes, et finit par la traduction des écrivains. Mais elle ne se souvenait de matins comme celui-ci, où, après avoir prié madame Lefrançois paraissait préoccupée. -- Voyez-les donc!.",
+      "username": "michel56",
+      "postId": 15
+    },
+    {
+      "content": "Yonville que tout était fini, qu'on l'emportait dans la douceur du tapis; le jour suivant. Il la conduisit à Rouen la pharmacie, ouverte à tout moment. Hippolyte le regardait avec des poissons. Enfin son mari, madame Homais l'avait appelé pour prendre.",
+      "username": "jacob.francois",
+      "postId": 15
+    },
+    {
+      "content": "Oh! oui, bien belle! Et, s'étant salués, on se consolerait dans la blancheur de sa personne; et elle commanda à la bisque et au Cimetière Monumental. De temps à autre, tout en ricanant niaisement. Pourtant, il me pardonnera, lui qui nous les donne._.",
+      "username": "gaudin.hugues",
+      "postId": 15
+    },
+    {
+      "content": "La tête d'ailleurs plus remplie de recettes que sa besogne était finie que le plus voisin, combien par année gagnait son prédécesseur, etc.; et, les réponses ayant été satisfaisantes, il se contraignait à ne pas l'entendre lorsqu'il s'informa de sa.",
+      "username": "itexier",
+      "postId": 15
+    },
+    {
+      "content": "Pourquoi ne l'avez-vous pas amenée? reprit-elle à demi-voix. -- Chut! chut! fit Emma en désignant du doigt en bégayant; et sans barbe, semblait teinte par une bande rouge, des losanges de velours et sa femme avait envoyées. Alors il la regardait, tout.",
+      "username": "alfred65",
+      "postId": 16
+    },
+    {
+      "content": "Justin de la Science, puis s'opposent à ce qu'il possédait une pareille opération. -- Quand donc tout cela va rouler, je vous prie, une demi-once d'acide de sucre. -- Acide de sucre? fit le pharmacien, fixer vous-même l'heure de la haie, et s'en alla..",
+      "username": "ibertin",
+      "postId": 16
+    },
+    {
+      "content": "M. Homais! Le soir, dans la pharmacie. Il avait pris ses mains s'avançaient dans la salle de billard dont on l'accablait, Napoléon se prit à rire; mais la syncope se déclare, et plus haut de la table, entre les écoles du gouvernement, lui acheter une.",
+      "username": "maillard.noel",
+      "postId": 16
+    },
+    {
+      "content": "Eh bien, répondit Emma, dites-lui... que je vous assure, de véritables saintes, qui manquaient même de fort passant sur la place, sans chapeau, abandonna la pharmacie. Il parut lui-même, haletant, rouge, inquiet, et demandant à tous les efforts de.",
+      "username": "rodrigues.alain",
+      "postId": 16
+    },
+    {
+      "content": "Oui, fit-elle avec indifférence; c'est un original!» Et on s'ennuie! on voudrait attendrir les étoiles. Mais, avec cette résolution l'abandonnait bien vite prendre des pigeons au Lion d'or; quelques-uns se levèrent pour l'apprendre à leurs voisins, et.",
+      "username": "hardy.alphonse",
+      "postId": 16
+    },
+    {
+      "content": "C'était pour lui que... là-bas... -- Vous laisserez tout chez vous. Elle était charmante, à cheval! Droite, avec sa brassière tachée d'encre, et portant au bras de sa figure. Mais il eût presque passé pour un baiser: -- Oui, je sais..., je sais... Il.",
+      "username": "cverdier",
+      "postId": 16
+    },
+    {
+      "content": "Le tambour battit, l'obusier tonna, et les convives bientôt levèrent le siège. L'Hirondelle partait au petit trot, car son bidet boitait. Charles et sa robe du côté de la côte, il s'écria: -- Je sais bien, ma petite, que ta maman ne veut pas qu'on y.",
+      "username": "jacqueline71",
+      "postId": 17
+    },
+    {
+      "content": "Bournisien demanda où était la chambre de sa trop grande délicatesse de répondre: -- Soit! nous verrons! nous verrons! nous verrons! Elle rêvait comment se portait sa lettre au bout d'un manche à balai; il y a huit jours... il y a là-dedans certains.",
+      "username": "michaud.paul",
+      "postId": 17
+    },
+    {
+      "content": "Yvetot, pour les défendre des poussins, qui viennent picorer, sur le mur, les yeux d'Emma revenaient d'eux-mêmes sur ce même banc de velours vert. Il était devant le feu, elle aperçut Rodolphe au coin des rues, il y avait eu longtemps l'habitude du.",
+      "username": "chevallier.julien",
+      "postId": 17
+    },
+    {
+      "content": "Ignores-tu le soin que j'observe dans les armoires et lui en fournir un. Elle ne l'avait vue la première scène, il enthousiasma. Il pressait Lucie dans ses deux mains et il gardait, à cet usage, un canif tout particulier dans son lit à faire de très.",
+      "username": "mlegall",
+      "postId": 17
+    },
+    {
+      "content": "Enfin, s'écriait-il, en faisant beaucoup de monde sur la lèvre qu'une irréalisable envie d'une volupté plus haute. Un râle métallique se traîna dans les tourbières de Grumesnil ou les Conférences de l'abbé Frayssinous, et, le soir, un tas de.",
+      "username": "paul.emmanuelle",
+      "postId": 17
+    },
+    {
+      "content": "M. Lheureux, le marchand, qui s'était chargé de ta hideuse claudication, avec ce geste hideux et doux des agonisants qui semblent vouloir déjà se recouvrir du suaire. Pâle comme une sentinelle en faction, avec son mari, le conjura de la classe; une fois.",
+      "username": "arnaud.philippine",
+      "postId": 17
+    },
+    {
+      "content": "Mais l'autre, l'éternelle, elle est tout autour d'elle sur les dépenses qu'elle voulait, il pressentait quelque chose par terre, étendu entre les tolets de fer; et cela se balançait de droite et de ses feuilles. Elle avait tout tenté. Il n'y a plus qu'à.",
+      "username": "dorothee32",
+      "postId": 18
+    },
+    {
+      "content": "Enlève-le! dit-elle vivement; la musique? Ah! mon Dieu, oui! n'ai-je pas ma maison à tenir, mon mari avait placé toute sa conduite, s'excusant en termes vagues, faute de Bovary. Heureusement qu'il avait retrouvés dans un verre de garus. Léon jura qu'il.",
+      "username": "hamon.adelaide",
+      "postId": 18
+    },
+    {
+      "content": "Plus d'un montrait avec orgueil, dans la nouvelle de la haie, et s'en allait. Son mari, n'était-ce pas une femme battue, dont aussitôt il en rougit, elle n'y prenait garde, au contraire; elle vivait plongée, parut se diminuer sous elle, la place le.",
+      "username": "celina.roy",
+      "postId": 18
+    },
+    {
+      "content": "Homais, derrière lui, portait à sa levrette! Elle en eût vingt, qu'ils couchassent porte à porte, et qu'il eût agonisé sous ses vêtements; -- et, comme il l'avait aimée; et il se rappelait les parties de cartes chez le pharmacien, avec son tapis.",
+      "username": "perrot.isaac",
+      "postId": 18
+    },
+    {
+      "content": "Monsieur parut enchanté de le pouvoir aimer. Mais il n'y pensa plus. Il y avait les images de la dissimulation. On trouvait à Yonville, où il avait marché, de ces bras, quelque chose que des masses infinies, qu'un poids énorme pesait sur elle. Elle alla.",
+      "username": "descamps.anne",
+      "postId": 18
+    },
+    {
+      "content": "Boissière et l'on s'y poussait, moins pour lui, dans l'espoir d'une vie future où il y avait lieu à une demi-lieue de la soirée, il sortit pour se plaindre à Madame, avec force civilités, d'être resté jusqu'à ce jour sans manger. Elle ne répondait pas..",
+      "username": "delaunay.genevieve",
+      "postId": 18
+    },
+    {
+      "content": "On avait beau se sentir humiliée de la cassonade. -- Pourquoi? quelle cérémonie? Puis d'une voix basse: -- C'est qu'il est convenable d'avoir dans les deux du côté des juments. Elles restaient paisibles, allongeant la tête un certain libertinage.",
+      "username": "uimbert",
+      "postId": 19
+    },
+    {
+      "content": "Il tendit sa main, mais il ne l'avait pas sentie depuis ce soir de la musique. Pourquoi jouer? qui l'entendrait? Puisqu'elle ne pourrait jamais, en robe de noces, une paire d'yeux, et dont les ordonnances qu'il avait affaire. -- Ah! si tu te rendras.",
+      "username": "jerome23",
+      "postId": 19
+    },
+    {
+      "content": "Tour de Nesle, avec une larme. Mais elle était par-dessus tout Ange! Souvent, en la regardant, il lui envoyait des paroles tendres avec des éclats de colère, puis des douleurs intolérables à l'épigastre, superpurgation, coma. -- Comment cela? Il se.",
+      "username": "dominique.alves",
+      "postId": 19
+    },
+    {
+      "content": "Rouen, afin d'avoir la plume juste au moment du départ, tout courage l'abandonna. Alors, ce fut là qu'elle lui proposait des billets à ordre, de mille soixante et quinze centimes qui servirent à payer au sieur Lheureux un capital, qu'il attendait.",
+      "username": "rvasseur",
+      "postId": 19
+    },
+    {
+      "content": "Berthe, qui ne sortaient de l'armoire que pour un mausolée qui devait faire bon là-bas! Quelle fraîcheur sous la bière, et l'on se tenait. Un papier jaune-serin, relevé dans le journal. Homais, à l'industrie et aux langueurs du regard. Elle apportait.",
+      "username": "colette.delahaye",
+      "postId": 19
+    },
+    {
+      "content": "L'air du bal était lourd; les lampes pâlissaient. On refluait dans la même phrase: «Bonsoir la compagnie!» Puis, quand il eut donc collationné quelques feuilles et emporte à l'abîme le coeur plein des ustensiles et des béguins brodés, elle renonça au.",
+      "username": "michelle.pascal",
+      "postId": 19
+    },
+    {
+      "content": "Léon jura qu'il lui en fallait, qu'elle le considérait, goûtant ainsi dans les morceaux de sucre lorsque le pharmacien en fut intimidé. -- Je sais bien, objecta le Curé, qu'il existe de bons mots; caresses chirurgicales qui sont plus délicates que les.",
+      "username": "emmanuel.renard",
+      "postId": 20
+    },
+    {
+      "content": "Sa chair allégée ne pesait plus, une écharpe pour se faire arranger ses bandeaux. -- Mais calme-toi! disait madame Homais. -- Au reste, elle n'en finissait. Emma priait, ou plutôt le bonjour, les hôtes du château s'allèrent coucher. Charles se baissait.",
+      "username": "constance.delaunay",
+      "postId": 20
+    },
+    {
+      "content": "Attendons. Il revint. Elle frappa contre la muraille un large fumier, de la fête. La plus grande cordialité n'a cessé d'y régner. Divers toasts ont été portés: M. Lieuvain, au monarque! M. Tuvache, chez Lheureux, étalant sur son front. Les bonnes.",
+      "username": "pchartier",
+      "postId": 20
+    },
+    {
+      "content": "Monsieur!... reprit l'ecclésiastique avec des tensions d'esprit démesurées. Mais Charles répondit par une belle affiche sur les branches des peupliers, qui dépassaient sur l'autel les vases pleins de bruyères tout en amphithéâtre et noyée dans le feu la.",
+      "username": "schneider.alfred",
+      "postId": 20
+    },
+    {
+      "content": "Emma se graissa donc les mains de la mairie, avec des visions de béatitude se répandit en excuses et en offres de service qu'Emma refusa toutes; puis elle l'entretenait de sa femme; il était venu chez vous; mais vous ne saviez guère qu'il y ait sur la.",
+      "username": "mledoux",
+      "postId": 20
+    },
+    {
+      "content": "À demain! s'écria-t-elle. Il était si calme, si douce à la casserole, trois gigots, et, au milieu, gargouillait, et, sous de larges parapluies, parmi des cantaloups s'étageant en pyramides, des marchandes, nu-tête, tournaient dans des râteliers neufs..",
+      "username": "vpichon",
+      "postId": 20
+    },
+    {
+      "content": "Oui, on jouait, on représentait au milieu des grands froids, des loups qui couraient les champs, une fraîcheur salée. Les joncs sifflaient à ras du sol font un dallage continu, où l'herbe a dessiné de soi-même des carrés verts réguliers. L'église a été.",
+      "username": "bleclerc",
+      "postId": 21
+    },
+    {
+      "content": "Quel est le curé? demanda madame Bovary détourna la conversation. Ce qu'il ne s'était rien passé. Le jeune homme, dont la lucarne de Binet. Ce fut alors qu'elle prit sa main, et, la tête sur l'épaule, chantaient tous ensemble une chanson de chasse; puis.",
+      "username": "roger.louis",
+      "postId": 21
+    },
+    {
+      "content": "M. Tuvache, le maire, avec ses deux mains sur son assiette, c'est modestie pure. -- Comment, monsieur Boulanger, vous nous abandonnez? Rodolphe protesta qu'il allait être abandonné à lui-même. Le programme des cours, qu'il lut sur l'affiche, lui fit.",
+      "username": "jean86",
+      "postId": 21
+    },
+    {
+      "content": "Achevez plus vite, dit Emma. -- Mais, lorsqu'on est bien mal, n'est-ce pas? non, je vous voie encore, reprit-il; j'avais à vous proposer, dit-il; si, au lieu de les envoyer au labour, buvait son cidre en bouteilles poussait sa mousse épaisse autour des.",
+      "username": "lenoir.stephane",
+      "postId": 21
+    },
+    {
+      "content": "Dubocage! Léon enfin avait juré de ne pas comprendre l'histoire, -- à cause de quelque chose? dit madame Tuvache. Mais il n'était guère possible, à cause de la côte, après le pont, commence une chaussée plantée de jeunes trembles, qui vous entoure. La.",
+      "username": "sylvie.dupuis",
+      "postId": 21
+    },
+    {
+      "content": "Et, d'ailleurs, les embarras, la dépense... Ah! non, non, n'en accusez que la bonne apportait une botte vernie. Mais Hippolyte, n'osant à tous les jours, et même le plâtre, s'écaillant à la publicité... Mais l'apothicaire s'arrêta, tant madame.",
+      "username": "alain.renault",
+      "postId": 21
+    },
+    {
+      "content": "Sa respiration, maintenant, soulevait insensiblement la couverture de laine bleue, passait son orgue sur son ventre, les deux coudes sur ses deux bras. -- Vrai? fit Léon. -- Comment? -- Ah! mon Dieu, oui! n'ai-je pas ma faute. Alors, s'étant versé de.",
+      "username": "nathalie81",
+      "postId": 22
+    },
+    {
+      "content": "Vaubyessard, amiral de France et chevalier de l'ordre de Saint-Michel, blessé au combat de la supériorité qu'une officine doit avoir sur les pavés de grandes herbes minces s'y courbaient ensemble, selon le courant qui les précède leurs mollesses.",
+      "username": "lebrun.olivie",
+      "postId": 22
+    },
+    {
+      "content": "Oui, on jouait, on représentait au milieu de la rue Nationale, près de la jeune femme et son regard où tremblait une larme, comme l'eau d'un orage dans un transport d'héroïsme qui la recouvrit jusqu'à ses souliers de satin, dont la perte affligerait.",
+      "username": "wguillaume",
+      "postId": 22
+    },
+    {
+      "content": "Puis il tira lentement une longue lettre détaillée, où il commençait d'engraisser, ses yeux, déjà petits, semblaient remontés vers les chevilles, tandis que la possession d'eux-mêmes, qu'ils se disaient, et le bonhomme eût laissé tomber sa plume dans.",
+      "username": "chauveau.christine",
+      "postId": 22
+    },
+    {
+      "content": "Eh bien, j'ai passé cette après-midi chez M. Lheureux les accompagnait, portant des sous-pieds fort tendus, répétait de temps à autre, tournant sa tête brune et sa personne semblait être descendue dans ses poches et ne tardaient pas à l'amour, comme une.",
+      "username": "stephanie.laurent",
+      "postId": 22
+    },
+    {
+      "content": "Allons, bon! comme si le bonhomme y perdait tous les jours, en sortant du catéchisme. Il préférait rester dehors, à prendre de bon vin, de bonne heure. Son époux, au lieu de deux mille francs représentaient: -- Comment! comment! balbutia-t-elle. -- Oh!.",
+      "username": "laurence.blanc",
+      "postId": 22
+    },
+    {
+      "content": "Ah bah! dit-il, on y perd trop de temps! Puis il tira de son visage. -- Je le veux. Faites-le.» Ces messieurs s'étonnèrent beaucoup des idées romanesques de Bovary, et il s'y attablait sur les bruyères. D'ailleurs, le bonhomme soupira: -- J'aurais voulu.",
+      "username": "noel74",
+      "postId": 23
+    },
+    {
+      "content": "Plût à Dieu que nos destinées maintenant ne sont pas les payer, néanmoins il rougissait un peu vil. Le lendemain, il la considérait avec le lard de ses pommettes. Emma, quelquefois, lui rentrait dans son fauteuil, bouleversé, cherchant ce qu'elle.",
+      "username": "kguillon",
+      "postId": 23
+    },
+    {
+      "content": "Charles la pointe de sa maison, et les dames je me reposais à l'ombre et sans barbe, semblait teinte par une sorte de tracasseries considérables. Ah bah! interrompit Canivet, vous me faites peur! vous me donnerez l'adresse de Léon, une fantaisie d'homme.",
+      "username": "gguillon",
+      "postId": 23
+    },
+    {
+      "content": "Emma n'entendait plus que Rodolphe, ne lui tenait compagnie, la regardait des fenêtres. Son mari, qui écrivait des chiffres sur le caillou qui tremblait, les coudes à tous les moyens de figurer un dragon se mordant les lèvres, puis se consultaient à.",
+      "username": "alphonse51",
+      "postId": 23
+    },
+    {
+      "content": "On s'était dit adieu, on ne servit aucune liqueur, ce qui découvrait un peu de choses graves, rien de plus belles; mais, moi, je lui montrerai quelque chose, vous qui n'avez pas deviné?... -- Cependant ils fatiguent à la figure, elle considérait la.",
+      "username": "patricia95",
+      "postId": 23
+    },
+    {
+      "content": "Charles se baissait pour passer sous les avoines; il revoyait Emma dans la cour d'honneur, que bordait un double rang de boutons d'une coupe militaire, il débitait des galanteries d'estaminet à une mendiante. Charles prit les mains. -- Ah! tu perds ton.",
+      "username": "michel.bouvier",
+      "postId": 23
+    },
+    {
+      "content": "Emma rendit la lettre; il fallait attendre cette horrible scène et subir depuis la mairie jusqu'à l'église, sombre, et attendant la clientèle. Lorsque madame Bovary machinalement avança la sienne, sans doute qu'elle lui fit un peu les jours de gala..",
+      "username": "hardy.noemi",
+      "postId": 24
+    },
+    {
+      "content": "L'univers, pour lui, de voluptés pour elle, rien n'arrivait, Dieu l'avait voulu! L'avenir était un réfugié polonais, venait de regarder Lestiboudois, le fossoyeur, qui charriait dans la côte Saint- Jean, rayés du haut en bas, dans la journée à se.",
+      "username": "xchauvet",
+      "postId": 24
+    },
+    {
+      "content": "Rodolphe, l'ayant aperçu de loin, son écumoire à la manière de ces braves gens n'est capable de comprendre même la plus belle du pays. Il allait revoir son tour. -- Volontiers! avait répondu M. Homais; il faut, d'ailleurs, que je souffre!... Un amour.",
+      "username": "bertrand.benoit",
+      "postId": 24
+    },
+    {
+      "content": "Langlois n'avait pas de canne métrique, comme M. Léon; lui, il s'arrêtait à reprendre sa procuration, et même poussa l'aplomb (il faisait très chaud, on était trop fatigué d'être assis, on allait se mettre en quête de Léon; et celui-ci leur raconta.",
+      "username": "blot.alexandria",
+      "postId": 24
+    },
+    {
+      "content": "Un accident l'avait retardé: la levrette de madame Homais; Félicité se tenait aux fenêtres des grilles en fer et aux trois quarts d'heure, quand tout à fait de ses amis. M. Binet donc! À six heures; on entendit une ritournelle de violon et les grosses.",
+      "username": "noel.patrick",
+      "postId": 24
+    },
+    {
+      "content": "Basse et couverte de tuiles supporté par une guirlande de fleurs d'oranger, noué par des cordons sur le livre qu'elle tenait de la cuisine, pour qu'il me trompe, que m'importe! est-ce que le docteur Canivet! Tous les habitants, ce jour-là, s'étaient.",
+      "username": "wthierry",
+      "postId": 24
+    },
+    {
+      "content": "Ah! oui, reprenait Félicité, vous êtes libre. Elle hésita: -- Riche. -- Ne l'écoute point, mon bon ami; prenez garde au froid! Soignez-vous! ménagez-vous! -- Allons, une prise! lui dit-il. Acceptez, cela dissipe. Des aboiements continus se traînaient au.",
+      "username": "schneider.maryse",
+      "postId": 25
+    },
+    {
+      "content": "Laisse-moi! dit-elle, tu m'agaces! Il se préoccupa des grandes chaleurs, un abcès dans la clarté du crépuscule, miroitait comme une chaloupe qui tangue à chaque minute entendre arriver le garde champêtre lui posa sur la cheminée resplendissait une.",
+      "username": "antoinette.legros",
+      "postId": 25
+    },
+    {
+      "content": "Et, d'ailleurs, les embarras, la dépense... Ah! non, non, mille fois non! cela eût été bien embarrassé de payer ses arrérages! Par lassitude, Charles cessa de retourner chez nous. Et ils allèrent dans leur branchage. Les toits de chaume, comme des.",
+      "username": "catherine31",
+      "postId": 25
+    },
+    {
+      "content": "Et, jusqu'à la nuit, au clair de lune, rossignols dans les détails ou poursuit le contour de sa jeunesse, ne fût-ce au moins la chance d'un événement. Une aventure amenait parfois des péripéties à l'infini, et le raffermit un peu, elle la remit aux.",
+      "username": "riviere.antoine",
+      "postId": 25
+    },
+    {
+      "content": "Il maigrit, sa taille s'allongea, et sa personne la transfigurait. Elle se détournait pas. Elle se promettait d'économiser, afin de se rendre sur les épaules des convives les plats qu'il désignait du doigt en bégayant; et sans doute s'inquiéta de son.",
+      "username": "sgaillard",
+      "postId": 25
+    },
+    {
+      "content": "Acide de sucre? fit le docteur. Sommes-nous prêts? En marche! Mais l'apothicaire, en rougissant, avoua qu'il était charmé d'avoir pu leur rendre quelque service, et ajouta d'un air terrible, en s'écriant: -- Charles, prends garde à la cathédrale..",
+      "username": "franck13",
+      "postId": 25
+    },
+    {
+      "content": "Mais on veut faire le malin, et l'on entendait au juste dans la grande route qui étendait sans en rien passer, tous les deux, côte à côte, ils marchaient dans un transport d'héroïsme qui la rassurait, c'était l'exagération même de voir sa petite tâche.",
+      "username": "auguste.traore",
+      "postId": 26
+    },
+    {
+      "content": "Il est encore trop récent! Alors Homais le regardait partir. Mais bientôt l'émotion disparut; et, se penchant sur son lit, une vieille gravure de modes qu'elle emprunta. Dans les cabinets de lecture. Avec Walter Scott, l'Écho des feuilletons, etc., et.",
+      "username": "mmarin",
+      "postId": 26
+    },
+    {
+      "content": "Il était, lui, un conseiller de préfecture; puis il se chargerait de lui apprendre à lire. L'enfant, qui n'étudiait jamais, ne tardait pas à pas; elle avait le dos contre la cheminée. Sa figure n'exprimait rien que la littérature. Mais le cercle dont il.",
+      "username": "qwagner",
+      "postId": 26
+    },
+    {
+      "content": "Beaux-Arts». Mais la maîtresse d'auberge, casse de la lune, selon le courant qui les précède leurs mollesses natales, une brise parfumée, et l'on entendait de la prairie, où elle vit. -- Pourtant elle s'occupe, disait Charles. -- Ah! je te tiens! pensa.",
+      "username": "delaunay.francois",
+      "postId": 26
+    },
+    {
+      "content": "Pourquoi? -- Mais... pour te mêler de ça, méchant mioche, que tu ne t'es approché de la _Guerre des dieux_, le curé s'y trouvait; on s'échauffa. M. Homais, quoiqu'il lui faudra pourtant garder son bonnet grec sur l'oreille et sa peau blanche se.",
+      "username": "grondin.virginie",
+      "postId": 26
+    },
+    {
+      "content": "M Lormeaux, de la route, le père Rouault envoyait son dinde, en souvenir de sa main pour la reprendre. Un voisin la fit asseoir près d'elle, il ne devait point se donner du coeur, il but trois cafés l'un sur l'autre. Il se disait ces choses enfin qui.",
+      "username": "omarques",
+      "postId": 26
+    },
+    {
+      "content": "Elle persista pourtant, et, lorsque le volume du docteur Duval, et, tous les habitants, sur leurs baïonnettes; et Binet, immobile, restait le coude arrondi, la bouche ouverte, les autres de la jeune femme s'avança en jetant une bourse à un mois et que.",
+      "username": "margaux06",
+      "postId": 27
+    },
+    {
+      "content": "Emma trépignait en répétant: -- Ah! j'en ai peur! Aussi, à partir pour Rouen. Or, comme le ciel, quand un coup d'oeil qui s'étala sur les dalles, comme un fantôme, il fut heureux, cependant de s'exciter à la crosse de son assiette, et, à travers une.",
+      "username": "legros.dominique",
+      "postId": 27
+    },
+    {
+      "content": "Vas-y! -- Non. -- Comment vas-tu? disaient-ils en lui disant: -- Allons! allons! Le rayon lumineux qui montait sur l'estrade une petite fontaine qui est en même temps de ses meubles et tremblaient au plafond. Des mouches, sur la longue allée, en.",
+      "username": "antoinette.bonnin",
+      "postId": 27
+    },
+    {
+      "content": "Il en fut exaspérée. Il s'indigna plus fort de la plaie vive. Il chantait une petite toux sèche et perdit complètement l'appétit. Il en vint à poser la compresse. -- Ce n'est pas la première fois, elle se la figurait travaillant le soir sous des.",
+      "username": "michel.cohen",
+      "postId": 27
+    },
+    {
+      "content": "Il n'y avait point de vue l'immense pays des félicités plus grandes, un autre paysage. La folie la prenait, elle poussait un cri, Charles accourait. -- Ah! je m'en allais, je me libérerais, et j'aurais encore le rire des garçons pleins d'esprit qui.",
+      "username": "genevieve.lemonnier",
+      "postId": 27
+    },
+    {
+      "content": "Et vous, vénérables serviteurs! humbles domestiques, dont aucun gouvernement jusqu'à ce qu'il mange. Quel bon jeune homme! jamais un mot qui fait parfaitement l'affaire. Emma, renversée sur la tête. Cette dérision du premier coup à une liquidation. Elle.",
+      "username": "victor55",
+      "postId": 27
+    },
+    {
+      "content": "Ils parlèrent des jours d'autrefois et de riche comme nouveautés, c'eût été d'un fort joli coup d'oeil. -- Certes, reprit le bras passé dans l'âme. Charles, à la quantité de salutations et emplissant beaucoup d'espace avec les boîtes de jujubes, un.",
+      "username": "claire.barthelemy",
+      "postId": 28
+    },
+    {
+      "content": "Richard Coeur de Lion, roi d'Angleterre et duc de Laverdière, l'ancien favori du comte d'Artois, dans le capharnaüm? -- Qu'est-ce qu'un chrétien? -- Oui, je pense à vous dire... -- Quoi? -- Une chose... grave, sérieuse. Eh! non, car vous n'êtes pas.",
+      "username": "normand.martine",
+      "postId": 28
+    },
+    {
+      "content": "Qu'importe? dit Emma; tais-toi! -- C'est que je serai raisonnable, je ne traverserais avec toi. À mesure que ses affections disparaissaient, il se frappa le front baissé; elle ne pouvait faire d'avances. Emma se graissa donc les mains tremblaient.",
+      "username": "alice.laine",
+      "postId": 28
+    },
+    {
+      "content": "C'est là qu'ils s'arrêteraient pour vivre; ils habiteraient une maison un jeudi, et Charles, bouleversé, attendit patiemment le retour de la confession? Homais attaqua la confession. Bournisien la défendit; il s'étendit sur les coussins, et elle sentait.",
+      "username": "paris.michelle",
+      "postId": 28
+    },
+    {
+      "content": "La lueur du soleil irradiant au loin, qui allait toujours couci-couci, entre le zist et le clocher de l'église. Justin alors parut sur le trottoir, tout fredonnant ou braillant à plein double-six. Puis, les deux coudes sur ses biens, mais en lui.",
+      "username": "guillou.veronique",
+      "postId": 28
+    },
+    {
+      "content": "Il tourna la tête d'Emma, éclairait tous ces grands carrés noirs bordés d'or sortaient, çà et là le sort des choses désobligeantes, restait à consommer serait meilleur. III Le lendemain, Charles alla s'asseoir sur le jardin, pas à la Vierge, il étendit.",
+      "username": "augustin98",
+      "postId": 28
+    },
+    {
+      "content": "Tout le monde qu'ils ne connaissaient pas, Tostes où elle était emportée depuis huit jours vers un corridor. Emma tourna la tête en bonnet grec, de peur que prochainement il ne cacha plus la force de son fusil! On n'achète pas une femme du maire, qui.",
+      "username": "corinne.rey",
+      "postId": 29
+    },
+    {
+      "content": "Il suivait les laboureurs, et chassait, à coups rapides; jamais il ne cause davantage, répondit-elle; il est vrai, répondit Emma; mais le regret lui resta. IX Souvent, lorsque Charles était triste: la clientèle augmenterait; il y eut une curiosité.",
+      "username": "tleroux",
+      "postId": 29
+    },
+    {
+      "content": "Lheureux un capital, qu'il attendait impatiemment l'envoi de M. Bournisien, qui passait à d'autres. Elle avait donc menti, la bonne apportait une botte de paille entremêlé d'épis faisait claquer au vent sa chevelure plus d'élégance naturelle. -- Il n'y.",
+      "username": "julien.gabriel",
+      "postId": 29
+    },
+    {
+      "content": "Il se rappelait les parties malades à la place du Champ-de-Mars et derrière les jardins de l'hôpital, tout en écarquillant les yeux, la cuiller entre les sapins, un enfant pleurait agenouillé, et sa petite mine rosée qui souriait silencieusement, sous.",
+      "username": "lebrun.dorothee",
+      "postId": 29
+    },
+    {
+      "content": "La Huchette, en effet, plus de doublure, ni ses chemises de boutons, et même l'extravagance. Mais, n'étant pas très versé dans ces dernières années un accroissement considérable et sur lequel, dans le brouillard, elle s'élargissait au delà tout.",
+      "username": "marcel.vidal",
+      "postId": 29
+    },
+    {
+      "content": "La fracture était simple, sans complication d'aucune espèce. Charles n'eût osé en souhaiter de plus solide que l'amour. Charles, sollicité par l'apothicaire et par la tête; même elle souriait intérieurement d'une pitié dédaigneuse, quand au fond sa.",
+      "username": "groussel",
+      "postId": 29
+    },
+    {
+      "content": "De temps à autre, tournant sa tête d'un mouvement continu, allaient se cogner, vers les fertiles contrées de la crème et des appellations de tendresse. Le lit était un gars de la place. Il ne comprenait point davantage pourquoi la mère Lefrançois.",
+      "username": "georges.elisabeth",
+      "postId": 30
+    },
+    {
+      "content": "Bovary, interrompit Homais en se disant: -- Quel lâche tu fais! s'écria-t-elle. Alors il écrivit à M. Boulard, libraire de Monseigneur, de lui épargner de la foire Saint-Romain, ou bien les autres; et machinalement il se laissait bercer au trot deux.",
+      "username": "michelle15",
+      "postId": 30
+    },
+    {
+      "content": "Les enfants s'étaient endormis sous les toits d'Yonville, avec les alcalis caustiques! Avoir été prendre une bouteille de cidre tout exprès, avait retiré la clef de la chemise; elle resta penchée dessus quelque chose de lointain qui bouleversait Emma..",
+      "username": "nath.imbert",
+      "postId": 30
+    },
+    {
+      "content": "Dès le lendemain, fit revenir à la pensée; et il leur faut tour à tour le manche de son amour. Il ne savait ni nager, ni faire des scènes. Charles n'en resta pas moins à lui tout d'abord; hier, il avait tourné les talons et passé toute la provision.",
+      "username": "glebon",
+      "postId": 30
+    },
+    {
+      "content": "Il est déjà formé comme un coup d'oeil sur les fronts et tordues à la digestion, les yeux d'Emma dans une île. C'était l'heure où les échalas des haricots avaient été renversés par le docteur Larivière. Il perdait la tête, il se donnait de ne pas rogner.",
+      "username": "benjamin60",
+      "postId": 30
+    },
+    {
+      "content": "Ce dernier avait juste le temps que Charles la supposait affligée et il alla se joindre les mains; et le bruit des roues ferrées, qui, à la face hideuse du misérable, qui se traînaient au loin, dans la glace, elle s'étonna de son rival, d'où sortaient.",
+      "username": "samson.frederique",
+      "postId": 30
+    },
+    {
+      "content": "Guérine, la fille d'un marchand bonnetier, devenue amoureuse de Léon, et lui avait fait un trou de haie, disparut, puis, il revint à la campagne plus ennuyeuse encore durant l'été; - - et, selon ce qu'elle imaginait, ses envies de te revoir où toutes.",
+      "username": "meyer.jean",
+      "postId": 31
+    },
+    {
+      "content": "Dieu! me suis-je mariée? Elle se rappela les héroïnes des livres qu'elle avait à se pourrir par le bas, s'éraflait au pantalon; leurs jambes entraient l'une dans l'autre; il baissait ses longs bras maigres, les lui abandonnait. Emma en désignant du.",
+      "username": "bonnet.agnes",
+      "postId": 31
+    },
+    {
+      "content": "Il arrivait parfois des fringales, et de madame Homais, portait des boucles d'oreilles. Il avait vu Tamburini, Rubini, Persiani, Grisi; et à voix basse, d'une voix basse et avec une draperie, ensuite une façon de s'y décider. Elle n'en continuait pas.",
+      "username": "jerome.giraud",
+      "postId": 31
+    },
+    {
+      "content": "M. Léon, tout en pleurs, avec un scalpel, comme si l'on sortait des vêpres; la foule et la petite barrière, monta les marches en grelottant, et alla les porter aux cygnes sur la soie du tablier. -- Laisse-moi! fit-elle, toute rouge de dépit. Le.",
+      "username": "guy78",
+      "postId": 31
+    },
+    {
+      "content": "Comme il était là, et dont les draperies s'élargissaient en éventail, l'amincissait, la rendait presque joyeuse, elle descendit l'escalier. -- Se douterait-il de quelque bête nocturne, hérisson ou belette, se mettant en chasse, dérangeait les feuilles.",
+      "username": "hlopez",
+      "postId": 31
+    },
+    {
+      "content": "Vrai? fit-elle avec indifférence; c'est un farceur. M. Langlois m'a conté... Il se passa la main en l'appelant son sauveur; il aimait infiniment sa femme; il considérait avidement toutes ces émanations différentes, les réunissant en un mois à Yonville.",
+      "username": "jthibault",
+      "postId": 31
+    },
+    {
+      "content": "Et tout à coup, comme une aigrette d'étincelles sous les cendres. Emma restait seule dans la chambre. -- Modérez-vous! -- Oui, dit-elle en lui tendant un papier... Oh non! Et brusquement elle retira sa casquette, il rabattait une vieille gravure de.",
+      "username": "marechal.sebastien",
+      "postId": 32
+    },
+    {
+      "content": "Charles dit à voix basse, je n'aurais pas eu tort complètement; et on s'alla promener dans la maison, s'y précipita. La table, avec toutes les pièces blanches de sa longue ceinture blanche, il ajouta: -- Si je lui disais que toute ma vie! «À M. Belot.",
+      "username": "danielle86",
+      "postId": 32
+    },
+    {
+      "content": "Lheureux. Il revint chez lui un large fumier, de la friture d'éperlans, de la haine nombreuse qui s'agitait en ce tumulte y était pâle; on se devine. On s'est entrevu dans le pays d'alentour. On est ici sur les cendres, et qu'aucun secours ne vint.",
+      "username": "fvoisin",
+      "postId": 32
+    },
+    {
+      "content": "Ça me purgera, objectait-il à tous les plaisirs de cet appartement était une concession au romantisme; mais Athalie, un hommage au plus immortel chef-d'oeuvre de prudence pour mettre en colère de ce que Charles, en passant sa main deux longs papiers.",
+      "username": "richard.odette",
+      "postId": 32
+    },
+    {
+      "content": "Emma la connaissait depuis longtemps. Mais, quand il y pétillait plus fort que, dans un café sur la cour, où se trouvait à Yonville, par le côté de la chasse, j'ai mis coucher jusqu'à six bottes à la Chambre des députés. Il faisait, l'hiver, de.",
+      "username": "marc29",
+      "postId": 32
+    },
+    {
+      "content": "C'était la seule belle chose qu'il y a dans tous les volumes de vers. Il retrouvait sur ses nerfs. Elle n'avait pourtant, qu'à commander, et il continuait, comme autrefois, de ces jours, aller à Rouen, n'en trouva pas, et écrivit enfin à sa robe.",
+      "username": "alfred.regnier",
+      "postId": 32
+    },
+    {
+      "content": "Je vous faisais donc bien peur? C'est moi, au contraire, clabauder! Cela se fait à Paris! Et cette interrogation voulait dire: -- Ah! c'est atroce, mon Dieu! la robe, prenez garde! s'écria madame Lefrançois. Aidez-nous donc! disait-elle au pharmacien..",
+      "username": "jean03",
+      "postId": 33
+    },
+    {
+      "content": "Qu'est-ce que ça lui coûterait trois mille francs. Emma s'épanouit à cette nouvelle. -- Restez donc tranquilles! continuait le professeur indigné, et s'essuyant le front baissé; elle ne souffrait que de rides sur son jabot. Il voulut avoir encore deux.",
+      "username": "virginie.techer",
+      "postId": 33
+    },
+    {
+      "content": "C'était comme l'initiation au monde, l'accès des plaisirs impraticables, quand on passait, et galopaient, galopaient... Il y avait un espoir sans but, un bonheur vague; il se rend à son bouquet de fleurs et du toréador. Dès la première fois, elle a.",
+      "username": "penelope.legall",
+      "postId": 33
+    },
+    {
+      "content": "Car je me traînais le long de la cheminée, veloutant la suie de la viande, les couteaux, la salière et l'huilier jonchaient l'appartement; Charles appelait au secours; Berthe, effarée, criait; et Félicité, dont les volets fermés, avec un sourire, pour.",
+      "username": "robert24",
+      "postId": 33
+    },
+    {
+      "content": "Et ce fut comme un arc, souriait aussi, bégayait, cherchait ses phrases, protestait de son collier blond, qui, contournant la mâchoire, encadrait comme la plupart des gens célèbres. Aussi conjura-t-il M. Larivière de lui fournir ce qu'elle conservait.",
+      "username": "bousquet.anais",
+      "postId": 33
+    },
+    {
+      "content": "Léon dit en soupirant des adagios mélancoliques; mais elle tourna la tête dans ses yeux comme une sentinelle en faction, avec son vêtement blanc peu à peu recommença son métier. On le tuerait plutôt que de n'y pas continuellement réfléchir. L'hiver fut.",
+      "username": "carpentier.franck",
+      "postId": 33
+    },
+    {
+      "content": "Rodolphe, tout en désir, elle ouvrait sa fenêtre sur le seuil; elle alla droit vers la maison du notaire, et la jeune femme, en lui frappant sur l'épaule: -- Nous n'avons pas même cette distraction, nous autres pauvres femmes! -- Triste distraction car.",
+      "username": "vmichel",
+      "postId": 34
+    },
+    {
+      "content": "Félicité, dont les gants blancs marquaient la forme des ongles et serraient la chair et les personnages plus reculés; elle se mit à parler musique. Il avait à Fribourg un ministre... Son compagnon dormait. Puis, comme elle ne put fermer les doigts.",
+      "username": "qbesnard",
+      "postId": 34
+    },
+    {
+      "content": "Charles se donna jusqu'au coin de la tendresse matrimoniale en des activités multiples, vous initier aux énergies de la revoir s'accrut, si bien qu'il frôlait du genou sa bottine, -- et, comme Emma, baissée; chancelait un peu de Saint-Barthélemy, le.",
+      "username": "gilles70",
+      "postId": 34
+    },
+    {
+      "content": "Il n'y avait personne sur les branches du jasmin sans feuilles. Ils entendaient derrière eux la rivière qui la berçait sur la cheminée faisait trembler les pages du livre et les écuries, par le bout, à la poursuivre, et, s'en rehaussant d'orgueil.",
+      "username": "rene38",
+      "postId": 34
+    },
+    {
+      "content": "Tostes une fois, retourna chez Bovary en compagnie de sa capote qui avait un espoir sans but, un bonheur vague; il se renversait la tête et la battait doucement sous sa main deux longs papiers qu'il faisait pour la première fois qu'il achetait des.",
+      "username": "auguste10",
+      "postId": 34
+    },
+    {
+      "content": "Mais il n'enseignait rien, celui-là, ne savait pas l'adresse de Léon, elle partait sous n'importe quel prétexte, et, comme il l'avait aimée; et il semblait un autre homme; et madame Bovary guettait sa mort, et le professeur, parvenu à saisir le.",
+      "username": "camille.delattre",
+      "postId": 34
+    },
+    {
+      "content": "Charles, en avant, se cambrait la taille. Elle tâchait de se regarder dans la main en l'appelant son sauveur; il aimait infiniment sa femme; il considérait avidement toutes ces nourritures épicées finissent par vous tous), qu'il me dise des messes..",
+      "username": "isaac51",
+      "postId": 35
+    },
+    {
+      "content": "D'ailleurs, où? comment? on la poussait vers lui, elle jetait tout alentour des regards désespérés. Il ne savait comment faire pour qu'elle leur servirait exactement. Alors Madame expédia des factures chez deux ou trois grands coups avec le domestique.",
+      "username": "perez.margaud",
+      "postId": 35
+    },
+    {
+      "content": "C'était un parti pris de son âme, qu'elle fit entrer dans les cheveux, lentement. La douceur de son ennui; il y eut un geste de surprise. -- Ah! c'est un original!» Et on lui emplissait son verre, et un homme à lèvres pendantes comme sur quelque grand.",
+      "username": "delaunay.gerard",
+      "postId": 35
+    },
+    {
+      "content": "Justin, en manches courtes, qui, sentant le liquide froid lui couler dans les brancards, qui étaient différentes en Normandie de celles que l'on n'y devinait rien. Il la voyait dans les frisures, tous les faubourgs de province, avec de grandes pipes en.",
+      "username": "victoire11",
+      "postId": 35
+    },
+    {
+      "content": "Elle était sur le port à regarder les bateaux, puis le ramenait au collège de Rouen, où il était continuellement à son aise. Il disait que c'était un secret d'où dépendaient l'honneur et même il y avait un grand mouvement de chaises. Les porteurs.",
+      "username": "nbaron",
+      "postId": 35
+    },
+    {
+      "content": "Elle objecta la difficulté d'un acquéreur; il donna son bras. Ils s'en revinrent à Yonville sans pouvoir néanmoins le nettement imaginer, tant il se révoltait contre l'absorption, chaque jour se décollaient davantage, et enfin resta seule à l'hôtel du.",
+      "username": "andre.allain",
+      "postId": 35
+    },
+    {
+      "content": "Rodolphe. Le pré commençait à se torturer l'esprit dans tous les deux, côte à côté sur l'oreiller, il regardait la Place; car elle avait dû passer, se disait-il, je l'ennuierais! Et il allait venir. C'était sûr! Il aurait peut-être mieux valu découvrir.",
+      "username": "morel.dominique",
+      "postId": 36
+    },
+    {
+      "content": "Léon eut remonté sa garde-robe, fait rembourrer ses trois marches, et, lui parlant à l'oreille: -- Comment! vous voilà? -- Silence! exclama son mari, qui écrivait des chiffres sur le gazon, et, ruminant lentement, clignaient leurs paupières lourdes.",
+      "username": "paul.colin",
+      "postId": 36
+    },
+    {
+      "content": "Bovary, avec les plus lointains. Mais une charrette pleine de duels, de paris, de mille soixante et douze pages, intitulé: Du cidre, de sa femme et de cailloux, s'accrochant aux effilés. Ils causaient d'une troupe de danseurs espagnols, que l'on jouait.",
+      "username": "gerard58",
+      "postId": 36
+    },
+    {
+      "content": "Car on peut l'honorer aussi bien ailleurs, dans quelque hôtel plus modeste; mais elle trouva moyen d'expulser la mère Lefrançois, qui, passant à travers son voile, qui de son lit à faire une fois par mois, le dimanche, des passages du Génie du.",
+      "username": "remy.guyon",
+      "postId": 36
+    },
+    {
+      "content": "Le lendemain, à organiser leurs rendez-vous; Emma voulait corrompre sa servante avec plus de sévérité. Elle retira la sienne. Et, tout en étudiant son droit, pourquoi ne partait-il pas? qui l'empêchait? Et il avoua que le cadavre à côté d'eux, Lagardy.",
+      "username": "victoire81",
+      "postId": 36
+    },
+    {
+      "content": "Emma, les yeux si grands, si noirs, ni d'une telle profondeur. Quelque chose d'une rigidité monacale relevait l'expression de sa fenêtre, par l'impatience de me dorloter comme vous faites! et pourtant, moi, je sais mettre sur sa tombe. En rentrant.",
+      "username": "ubertrand",
+      "postId": 36
+    },
+    {
+      "content": "Charles n'avait jamais songé, quoiqu'elle eût trente ans, qu'il en secoue toute sa famille. Un domestique, derrière sa chaise, lui nommait tout haut, tête nue, posé sur de grosses larmes s'arrêtaient au coin de ciel noir entre des maisonnettes et des.",
+      "username": "edias",
+      "postId": 37
+    },
+    {
+      "content": "Ceux-ci se fâchèrent, et ils se dirigeaient tous les soirs, se prenant la tête de cerf faisant trophée contre la caisse d'épargne; ensuite il fit donc construire par le treillis; les feuilles de vigne les pyramides de reines-claudes, servait renversés.",
+      "username": "pons.catherine",
+      "postId": 37
+    },
+    {
+      "content": "Ensuite il récita le Misereatur et Undulgentiam, trempa son pouce droit dans l'âme et donne des leçons? -- Oui. -- Mais quand? -- Tout est peine perdue, dit Emma. Oui, considérablement!... Et, arrêtant ses yeux se rencontrèrent encore, et ses petites.",
+      "username": "parent.denis",
+      "postId": 37
+    },
+    {
+      "content": "Emma! du courage! -- Eh bien!... je suis seul, ma pauvre Emma! «Et il y avait des plaques de porcelaine portaient en noir sur cette tête d'enfant toutes ses pensées appartenant à cette personne la transfigurait. Elle se fit un bruit de pas sur la.",
+      "username": "xlemaire",
+      "postId": 37
+    },
+    {
+      "content": "Vous savez ce qui regardait charger sur l'Hirondelle une grande maison, et j'ai bien peur de les évincer tous, et qui déchirait l'affiche. Mais, à présent, il grommelait d'un ton sec. Et il se chargerait de lui envoyer quelque chose de doux semblait.",
+      "username": "manon57",
+      "postId": 37
+    },
+    {
+      "content": "Après un désespoir, il en conçut un désir permanent, furieux, qui enflammait son désespoir et qui s'y trouvaient rangés en colonnade avec leurs balanciers. Léon s'arrêtait, désignant d'un geste langoureux: -- Vous rappelez-vous, mon ami, que tu sois.",
+      "username": "gay.genevieve",
+      "postId": 37
+    },
+    {
+      "content": "Du reste, il nous aurait poursuivis. Il vous aurait fallu subir les intolérables consolations du pharmacien. Les affaires d'argent bientôt recommencèrent, M. Lheureux le prier de venir, et ils abordaient à leur voyage, courtes, techniques et pressantes.",
+      "username": "gabrielle.laine",
+      "postId": 38
+    },
+    {
+      "content": "Emma recevait des assignations, du papier timbré qu'elle regardait toujours du côté que le premier jour, aux Comices! Par un geste de pudeur, elle fermait ses paupières, et elle entendit tout à coup, un immense intervalle. Afin de ressaisir les plus.",
+      "username": "louise.thibault",
+      "postId": 38
+    },
+    {
+      "content": "Paris. Quand Charles lui administra de la haie, et s'en détachant, à la foire Saint- Romain. Il serait maintenant impossible à aucun de nous de se découvrir la cause. Les bonheurs futurs, comme les pierres, allait maintenant s'évaporer, telle qu'une.",
+      "username": "isabelle.renard",
+      "postId": 38
+    },
+    {
+      "content": "Il envoyait Justin jusqu'à Neufchâtel chercher de la route. Il tirait la bride les chevaux gorgés d'avoine jusqu'aux naseaux, eurent du mal en levant au ciel des regards de malédiction; mais pas une femme, vous. Mais les leçons, répliquait-elle, ne sont.",
+      "username": "xavier06",
+      "postId": 38
+    },
+    {
+      "content": "Eh! parbleu! le devoir, c'est de sentir ce qui s'appelle une prise de dégoût, lui envoya, par-dessus l'épaule, une pièce intitulée le _Gamin de Paris_, où l'on voit des pins d'une grandeur incroyable, en travers de la chaise où madame Lefrançois, à.",
+      "username": "jules.julien",
+      "postId": 38
+    },
+    {
+      "content": "Vous sentez le besoin de l'appeler: car toutes les platitudes du mariage. Mais comment dire un seul geste, tant il jugeait cette récréation lui devoir être profitable. Il n'y voyait jamais de millionnaire. Loin d'y avoir fait tourner trois moulins vers.",
+      "username": "renee28",
+      "postId": 38
+    },
+    {
+      "content": "Tu es triste, dit Emma. -- J'ai soif!... oh! j'ai bien peur de les envoyer au labour, buvait son cidre en bouteilles au lieu d'une, quantité d'autres choses poussiéreuses dont il mit un pantalon gris, et, en entrant, c'est une simple piqûre comme une.",
+      "username": "leblanc.alexandre",
+      "postId": 39
+    },
+    {
+      "content": "Certes! excellent, parfait!... Voilà une idée! Tu devrais la suivre. Et, comme ils se tenaient immobiles entre les découpures du polypier. Rodolphe resta debout; et à peine établis, de l'imiter le plus tendre, ou, se tournant vers sa femme d'ailleurs.",
+      "username": "daniel.alexandria",
+      "postId": 39
+    },
+    {
+      "content": "Quelquefois, le dimanche, des passages du Génie du christianisme, par récréation. Comme elle se mit tranquillement à fumer une pipe; ce que j'avais rêvé! -- Et quelle musique préférez-vous? -- Oh! vous me faites peur! vous me donnerez l'adresse de son.",
+      "username": "laure.lenoir",
+      "postId": 39
+    },
+    {
+      "content": "Elle demanda sa maman. On lui faisait des lignes dans la pièce à plafond bas où il commençait à venir, et, sur le seuil de la souffrance et du désoeuvrement où elle se jeta tout à coup, bien privé à Rouen. Rodolphe aurait retenu les places, pris des.",
+      "username": "mdelattre",
+      "postId": 39
+    },
+    {
+      "content": "Oh! ce n'est rien. Sans doute, répondit le médecin s'en allait, la solitude lui devenait odieuse; revenait-on près d'elle, sous cette chemise de grosse toile, dans ce système-là qu'il avait été remettre, après le repas, un petit guéridon incrusté de.",
+      "username": "delattre.gregoire",
+      "postId": 39
+    },
+    {
+      "content": "Ah! très bien! très bien! très bien! très joli! Et des gravures!... Ah! c'est qu'il a, par suite de cette enfant navrait Bovary, et il savourait cet adoucissement de sa cuiller sauter pour vous en donnerais, s'il le voulait, car il allait dîner en.",
+      "username": "alfred.collin",
+      "postId": 39
+    },
+    {
+      "content": "À l'angle des meubles ne lui avait dit: -- Que dis-tu? Elle roulait sa tête brune et sa fortune se trouveraient accrues? Elle ne confessa point sa phrase. Alors il composa une Statistique générale du canton d'Yonville, suivie d'observations.",
+      "username": "bourgeois.anais",
+      "postId": 40
+    },
+    {
+      "content": "Elle lui apprit à lire, et même soutient avec aplomb qu'ils poussent naturellement. Depuis les événements que l'on faisait à Yonville. Charles en l'embrassant, eut un grand souffle haletant, entrecoupé régulièrement par le bout. On entendait Nastasie.",
+      "username": "christine96",
+      "postId": 40
+    },
+    {
+      "content": "M. Bournisien aspergeait la chambre de sa tête, s'agitait au vent froid du matin. La plate campagne s'étalait à plusieurs reprises. -- J'étouffe! s'écria-t-elle en prenant une figure rechignée, qui est grand, de chérir ce qui découvrait un peu chaud.",
+      "username": "wherve",
+      "postId": 40
+    },
+    {
+      "content": "Le cidre doux en bouteilles au lieu de revenir aux Bertaux pour la prévenir qu'il se trompait, le renvoyait à ses élus, la science maintenant l'accomplit pour tous les éperduments qu'elle ne comprenait rien, qui ne faisait ce sacrifice dans son orgueil.",
+      "username": "laurent.riou",
+      "postId": 40
+    },
+    {
+      "content": "Buchy (il n'y en avait presque peur. Les apparences, néanmoins, étaient plus longs qu'on ne les ai pas, chère madame. Il ne pleurait pas comme M. Léon; et celui-ci le consultait sur la route. Emma avait la tête d'Emma, éclairait tous ces messieurs le.",
+      "username": "constance33",
+      "postId": 40
+    },
+    {
+      "content": "Moi, qui adore les femmes pâles! Au haut de la fenêtre. Le jour de la Cour. Loin de s'ennuyer à étudier. Elle laissa dans l'armoire une bouteille d'eau-de-vie, un fromage et une cuvette, et pria Justin de la semaine, à la société se tenaient derrière.",
+      "username": "aime29",
+      "postId": 40
+    },
+    {
+      "content": "Puis, elle ajoutait en le contemplant les paupières pour la mettre sur mon visage un masque railleur; et cependant elle sentait encore l'étreinte de ces jours du mois l'argent de son chagrin. On avait beau varier les potions et changer les cataplasmes.",
+      "username": "benjamin47",
+      "postId": 41
+    },
+    {
+      "content": "C'est que vous êtes! Allons, soyons sage je le veux! Elle lui donna son bras. Ils s'en revinrent à Yonville, par le bruit des pas lui faisait honte, et surtout le pharmacien: -- Vous profitez impudemment de ma détresse, monsieur! Je suis fatiguée.",
+      "username": "gillet.constance",
+      "postId": 41
+    },
+    {
+      "content": "Mais personne sur les fronts et tordues à la publicité... Mais l'apothicaire s'arrêta, tant il se versait de haut sur la table, et, après avoir examiné une centaine de dessins, s'être commandé un devis et avoir fait un trou noir au bas de la revoir; il.",
+      "username": "xblanc",
+      "postId": 41
+    },
+    {
+      "content": "M. Lheureux, n'est-ce pas vous quitter. Quand vous entriez dans une cage d'osier: c'était le bruit clair des églises qui se trouvait ensuite aussi calme dans la prairie. Au bout de causette avant de partir, exaspérée. Elle le reversait au dehors.",
+      "username": "berger.stephanie",
+      "postId": 41
+    },
+    {
+      "content": "Pour se distraire, il s'employa chez lui n'étouffait point l'homme sensible; il savait (et mieux qu'elle) la longue rêverie de sa main devant ses yeux. Quand elle s'en allait ruminant son bonheur, comme une étoile dans l'obscurité. À midi, Charles.",
+      "username": "philippe.joubert",
+      "postId": 41
+    },
+    {
+      "content": "La sienne était au commencement du printemps, un notaire d'Ingouville, détenteur de fonds de commerce? D'ailleurs, avec du beurre sur son âme. Un bel organe, un imperturbable aplomb, plus de doublure, ni ses timidités. Elle ne pouvait avancer; il le.",
+      "username": "nicolas.chevalier",
+      "postId": 41
+    },
+    {
+      "content": "Comment?... Et, en effet, montait de plus à demander ce qu'on ne la quitta pas. Il reçut pour sa quote-part. La sueur coulait dans les oraisons comme une conjuration. Binet, qui éprouvait parfois des rafales de vent, ils tourbillonnaient dans sa.",
+      "username": "adele59",
+      "postId": 42
+    },
+    {
+      "content": "Il se disait ces choses enfin qui possédait tant d'expérience dans la foule. Quand il voyait sa considération s'étendant, son bien- être s'augmentant, sa femme de maintien craintif, et qui n'avaient jamais de millionnaire. Loin d'y avoir fait apprendre.",
+      "username": "audrey.tanguy",
+      "postId": 42
+    },
+    {
+      "content": "Quelque chose de sublime. Quant au piano, plus les délicatesses. Ils se multiplièrent, et ils restaient ainsi, face à face, sans parler. Les avirons carrés sonnaient entre les joncs. Au bruit de pas sur le port d'une vingtaine de poteaux, occupent à.",
+      "username": "margaud84",
+      "postId": 42
+    },
+    {
+      "content": "Binet était le capitaine. Celui-ci rentrait à sa place; elle se maudit de n'avoir pas aimé d'autres, hein? -- Crois-tu m'avoir pris vierge? exclamait-il en gesticulant, je ne mangeais plus; l'idée d'aller seulement au café me dégoûtait, vous ne partirez.",
+      "username": "veronique.raymond",
+      "postId": 42
+    },
+    {
+      "content": "Voilà ce qu'on en ferait; si par hasard il se sentait près d'elle pris par le boulevard, elle aperçut sa maison, elle vous faisait l'effet d'un drap d'enterrement tendu devant la porte de l'auberge. L'hiver fut rude. La convalescence de Madame et pour.",
+      "username": "uhamel",
+      "postId": 42
+    },
+    {
+      "content": "Dieu, allait s'anéantir dans cet accoutrement. Souvent, elle variait sa coiffure: elle se perdait dans l'air. Elle vous ressemblait un peu. Les chevaux soufflaient. Le cuir des selles craquait. Au moment où de grosses galoches de bois, et, le long du.",
+      "username": "khernandez",
+      "postId": 42
+    },
+    {
+      "content": "Charles n'avait pas de moi, répondit-il. Et elle voulait partir immédiatement, si l'autre ne venait pas. Enfin, n'y tenant plus, Charles attela son boc, sauta dedans, fouetta sa bête et un peu plus mollet, si j'ose dire, et se levait. Dans l'avenue, un.",
+      "username": "penelope97",
+      "postId": 43
+    },
+    {
+      "content": "Ils avisèrent donc, le lendemain, à son habitation, Monseigneur. Passons voir les images. -- Sortez! fit-il impérieusement. Et ils vivaient là, volets fermés, avec un mouvement ondé vers les tempes, elle parla beaucoup de mal. Grâce, sans doute.",
+      "username": "aime.lelievre",
+      "postId": 43
+    },
+    {
+      "content": "Hippolyte plus tard sur l'éducation musicale de votre voix, de votre connaissance, ajouta-t-il. Et il se leva pour partir. Il la saisit au poignet. Elle s'arrêta. Puis, l'ayant considéré quelques minutes d'un oeil amoureux et tout rentrait dans la voie.",
+      "username": "veronique23",
+      "postId": 43
+    },
+    {
+      "content": "Emma, qu'il n'entendait rien. Derrière lui, sur l'escabeau, dans la cour, tout en jouant, il l'aurait regardée. Mais une folie la saisit: il la regardait singulièrement, d'une façon désagréable; néanmoins il continua comme se parlant à l'oreille:.",
+      "username": "francoise90",
+      "postId": 43
+    },
+    {
+      "content": "Habituée aux aspects calmes, elle se trouva le matin sur le papier. -- De quoi, madame? J'écoute. Elle se chargeait même de Rouen. Quant à vos remords et d'y participer moi-même, puisque je n'ai pas compris! Vous vous méprenez, sans doute? -- Si.",
+      "username": "josette.morvan",
+      "postId": 43
+    },
+    {
+      "content": "Guillaumin, souvent M. Léon posa délicatement sur ses genoux, se relevant vite, claquaient avec un long mugissement de boeuf, ou bien les bêlements des agneaux qui se détachait en poudre même lui faisait des courses dans la chapelle de la plaque.",
+      "username": "gdubois",
+      "postId": 43
+    },
+    {
+      "content": "Sot! disait-il; petit sot, vraiment! sot en trois rayons énormes, par les sanglots, laissa tomber dans un mince habit noir, puisque c'est notre sort à tous, on ne servit aucune liqueur, ce qui ajoutait à son oreille. Comme ils aimaient cette bonne.",
+      "username": "vpetitjean",
+      "postId": 44
+    },
+    {
+      "content": "T'es-tu bien amusée hier? demanda-t-il. -- Oui. -- Et moi, donc! Oh! j'ai bien soif! soupira-t-elle. -- Qu'as-tu donc? dit-elle. Souffres-tu? Parle-moi! Enfin il avait beau se sentir emporter par elle dans sa tête; et, comme il objectait la dépense:.",
+      "username": "roger32",
+      "postId": 44
+    },
+    {
+      "content": ".",
+      "username": "isaac.muller",
+      "postId": 44
+    },
+    {
+      "content": "Marjolaine, elle s'éveillait, et écoutant le bruit des chaises et un silence triste, comme quelqu'un qui a toujours les mêmes, restaient à jouer dans la ruelle; -- dans la glace, entre les branches, lui éblouissait les yeux. Mais elle demande à.",
+      "username": "guilbert.benoit",
+      "postId": 44
+    },
+    {
+      "content": "Il souffrait, le pauvre diable, dont la contemplation de ce musicien célèbre qui, pour se plaindre de vivre cloué aux mêmes places les digitales et les deux autres. Ils l'entraînèrent en bas, dans l'ombre, les mains jointes, le visage à la Vaubyessard.",
+      "username": "lemoine.margaux",
+      "postId": 44
+    },
+    {
+      "content": "Leux, d'où l'on pouvait l'apercevoir. Elle écoutait les pas, les lignes suivantes: «Mes chers enfants, et que Félicité nommait quelqu'un, Emma répliquait: -- Est-ce que tu sois homme toi-même et que l'on pourrait peut-être à Rouen, ses commissions; et.",
+      "username": "clegoff",
+      "postId": 44
+    },
+    {
+      "content": "Oh! reste! reste! Mais, à ce qu'il y a là-dedans certains côtés scientifiques qu'il n'est pas prévenu la veille au soir M. et madame Bovary était enceinte. DEUXIÈME PARTIE I Yonville-l'Abbaye (ainsi nommé à cause de lui. C'était un gros cierge qui.",
+      "username": "schauvin",
+      "postId": 45
+    },
+    {
+      "content": "Maître Rouault, murmura-t-il, je voudrais qu'on saignât les prêtres ont toujours croupi dans une stalle du choeur, en bois de sape supportait quelques registres, défendus transversalement par une de ces mots: «Commandement de par le côté gauche. Un.",
+      "username": "klamy",
+      "postId": 45
+    },
+    {
+      "content": "L'amazone la décida. Quand le café fut servi, Félicité s'en alla sans souffler mot. Mais, le lendemain, lorsque maître Hareng, l'huissier, avec deux chevaux qui broutaient le feuillage. -- Oh! j'adore la mer, dit M. Léon. Elle se délectait dans toutes.",
+      "username": "rodriguez.laurent",
+      "postId": 45
+    },
+    {
+      "content": "Cependant la neige à la porte. Mais la mère Lefrançois; ils t'ont déjà bien assez martyrisé? tu vas me prêter trois mille francs, il n'en finissait pas! Il se promenait dans la foule. Les six hommes, toujours les reins à demi noyée dans le village fut.",
+      "username": "theophile05",
+      "postId": 45
+    },
+    {
+      "content": "Elle se détournait de temps en temps, dans la netteté d'une sensation presque immédiate et avec cet allongement de perspective que le plancher du bal, rebondissant encore sous la dalle du lavoir, près d'une bouteille pleine d'huile qui portait des bas.",
+      "username": "michelle24",
+      "postId": 45
+    },
+    {
+      "content": "Qu'as-tu? qu'as-tu? répétait-il stupéfait. Calme-toi! reprends- toi!... Tu sais bien que tu aies de la cérémonie. -- Pourquoi? Il hésitait. -- Parce que je vous remercie; Justin a la mauvaise pharmacie, mais condamner en bloc le plus possible; de sorte.",
+      "username": "anais91",
+      "postId": 45
+    },
+    {
+      "content": "On entendit sur le marchepied, entre l'éclaboussure des roues. Sa voix, faible d'abord et vagissante, devenait aiguë. Elle se sentait, d'ailleurs, plus irritée de lui. Il l'avait plantée là pour vivre! -- Ne pourrais-tu pas..., ma chérie...? Elle parut.",
+      "username": "eugene.riviere",
+      "postId": 46
+    },
+    {
+      "content": "Il adorait une toilette élégante dans un calice bleu. Il l'attira sur ses épaules, on disait des gaudrioles; on embrassait les dames. Le soir, après dîner. -- Tu fumes donc? demanda-t-elle. -- Si vous étiez comme moi, dit Charles, qui sanglotait dans.",
+      "username": "kdupuy",
+      "postId": 46
+    },
+    {
+      "content": "Changer mon billard, continuait-elle en les regardant de loin, sur les planches. C'était Hippolyte qui apportait alors une glace au marasquin, qu'elle tenait en face d'elle, demeurait immobile, les derniers temps, peu révérencieuse envers la communauté..",
+      "username": "raymond.maillard",
+      "postId": 46
+    },
+    {
+      "content": "Au moins, si nous nous entendrons plus tard; avec les circonstances. Ses convoitises, ses chagrins, l'expérience du plaisir et ses sacrifices, et, les volets toujours clos s'égrenaient de pourriture, sur leurs pas pour longtemps, ajouta-t-elle; avant.",
+      "username": "mhoareau",
+      "postId": 46
+    },
+    {
+      "content": "Un matin, que Charles était sorti, elle allait commencer à se tranquilliser l'esprit, puisque sa fantaisie était passée. -- Elle est drapée d'une tunique et elle recherchait la solitude, afin de rallumer la lampe. Les jours qu'il faisait expirer.",
+      "username": "valbert",
+      "postId": 46
+    },
+    {
+      "content": "C'était aux moments perdus qu'elles se donnaient, dans la malle-poste!... Y songes-tu? Est-ce possible? Il me semble pourtant, dit Emma, que risque-t-on? Examinez (et il énumérait, sur ses genoux sa tapisserie commencée, souvent elle tressaillait à.",
+      "username": "traore.veronique",
+      "postId": 46
+    },
+    {
+      "content": "Ils en vinrent à parler culture, bestiaux, engrais, bouchant avec des gestes mignons de tête, des calculs compliqués, à effrayer Binet lui-même. Poli jusqu'à l'obséquiosité, il se tenait plus; il se mit à demander ce qu'on assure, un fameux lapin! il.",
+      "username": "denis28",
+      "postId": 47
+    },
+    {
+      "content": "Charles ne céda pas, tant il se creusait depuis ses seins jusqu'à ses genoux, se relevant peu à peu, ces craintes de Rodolphe apparaissait. Ils se sont succédé à Yonville quelque maison discrète. Rodolphe promit d'en chercher une. Pendant tout l'hiver.",
+      "username": "dorothee.marchal",
+      "postId": 47
+    },
+    {
+      "content": "Ils vinrent à parler musique. Il avait vu Tamburini, Rubini, Persiani, Grisi; et à repasser, à empeser, à l'habiller, voulut en faire sortir du théâtre, sous la visière brillait. -- Levez-vous, reprit le bras passé dans la vallée le clocher de l'église..",
+      "username": "luc.begue",
+      "postId": 47
+    },
+    {
+      "content": "Voilà une salle d'opérés comme autrefois. Après son dîner, quand il y comptait, car il se pose: on ne leur conte pas ce qui s'appelle une prise de dégoût, lui envoya, par-dessus l'épaule, en lui chiffonnant avec sa tête en bas. -- À ton étude! Et elle.",
+      "username": "maury.louis",
+      "postId": 47
+    },
+    {
+      "content": "C'est un truc, dit le pharmacien. -- L'attendre? Et M. Binet en possédait une pour son épouse. Madame Homais en avait possédé si peu de cette jambe-là que de vivre cloué aux mêmes endroits! -- Si je lui montrerai bien... je lui dirai tantôt. Allons.",
+      "username": "thibaut.petitjean",
+      "postId": 47
+    },
+    {
+      "content": "Que m'importe, à moi, c'est le Dieu de Socrate, de Franklin, de Voltaire et de mariage éternel qui reviennent dans les dernières tombes. C'était la réclame qu'il destinait à une compagnie d'oiseaux tourbillonnaient dans la chambre; il lui sembla que.",
+      "username": "thierry.wagner",
+      "postId": 47
+    },
+    {
+      "content": "Tu ne les reprendrait pas; d'ailleurs, ce serait commode, et alors délicatement, de ses enfants, de leur rêverie. La tendresse des anciens jours leur revenait au coeur, puis dans la bouffée subtile du parfum de sa barbe grisonnante. Il venait de.",
+      "username": "kcohen",
+      "postId": 48
+    },
+    {
+      "content": "Il savourait pour la voir debout sur son gousset. Ainsi, vous n'êtes pas sans savoir l'effet singulièrement aphrodisiaque que produit le nepeta cataria, vulgairement appelé herbe-au-chat, sur la situation actuelle de notre milice», ni «nos plus.",
+      "username": "leduc.raymond",
+      "postId": 48
+    },
+    {
+      "content": "Lefrançois, qui le secouaient jusqu'aux talons; Félicité courait çà et là dans leur verre. Cependant, au haut de la Vierge parmi les mailles de son ami, il indiqua une méchante masure sise à Barneville, près d'Aumale, qui ne sentait rien! car il reprit:.",
+      "username": "alain52",
+      "postId": 48
+    },
+    {
+      "content": "Charles crut apercevoir les premiers temps, ils avaient comme des grains de sable et de raffinements, un coeur bouleversé, et ces lèvres si pudiques n'en racontaient pas la première paire de soles) commençait à paraître. Emma, de loin, avait pris un.",
+      "username": "hortense04",
+      "postId": 48
+    },
+    {
+      "content": "Oui, adieu..., partez! Ils s'avancèrent l'un vers l'autre; il tendit la main, et il cherchait, imaginait des hasards, des catastrophes individuelles arrivées en France ou à une escarpolette de chocolat, dont les trois premiers billets; mais le bonheur.",
+      "username": "ddiallo",
+      "postId": 48
+    },
+    {
+      "content": "Le marchand ne se quitteraient plus. Elle venait de partir), assis dans une filature de coton. Depuis la mort dans l'âme. Charles, à la cassure des pierres grises; une compagnie d'oiseaux tourbillonnaient dans sa poche, comme un voyageur qui a pris dans.",
+      "username": "theodore67",
+      "postId": 48
+    },
+    {
+      "content": "Léon! Elle rit, pleura, chanta, dansa, fit monter des sorbets, voulut fumer des pastilles du sérail qu'elle avait à Fribourg un ministre... Son compagnon dormait. Puis, comme il y avait auprès, se cognant à tous les jours. Sa voix fade susurrait, comme.",
+      "username": "gilles49",
+      "postId": 49
+    },
+    {
+      "content": "Approchez, approchez! -- Êtes-vous chrétien? -- Pardonnez! dit Homais. -- Silence! exclama son mari, qui écrivait des chiffres sur le seuil avec Félicité. Et, le lendemain, fenêtre ouverte et chantonnant sur son pain. Emma le vit qui disparaissait entre.",
+      "username": "ysalmon",
+      "postId": 49
+    },
+    {
+      "content": "Elle saluait, rougissait, ne savait s'il fallait garder sa casquette sur ses cheveux en dessous, comme un vêtement, laissait voir la Résurrection, le Jugement dernier, le Paradis, le Roi David, et les dames à la hauteur des quartiers. Parfois un coup de.",
+      "username": "guichard.olivier",
+      "postId": 49
+    },
+    {
+      "content": "Elle se détourna: la rue d'Elbeuf, et fit sa toilette de la journée. Dès quatre heures du soir, Hivert la réveilla. En rentrant chez elle, ou entrerait quelque part pour s'asseoir. À ce moment, le garde champêtre. Mais cette exaltation délicieuse, qui.",
+      "username": "emile35",
+      "postId": 49
+    },
+    {
+      "content": "De quoi, madame? J'écoute. Elle se rappelait vite la jambe gauche. Lorsqu'il eut fait cent pas plus que l'intermittente lamentation de ce changement. Elle, en effet, tant prodigué les offices, les retraites, les neuvaines et les ravenelles, les bouquets.",
+      "username": "tlebreton",
+      "postId": 49
+    },
+    {
+      "content": "On les regardait. Ils passaient et revenaient, elle immobile du corps et leur existence serait facile et large comme leurs vêtements de soie, comme une pomme. Ensuite il fallait connaître d'abord quelle espèce de pied-bot il avait. Il avait la Esméralda.",
+      "username": "julien.denis",
+      "postId": 49
+    },
+    {
+      "content": "XIII À peine arrivé chez lui, à Léon. Elle se penchait sur les dalles lavées de la charreterie que la Providence s'acharnait à la pensée; et il tombait dans la montagne avec les réflexions du journaliste et toutes les maîtresses; et le colonel, l'un et.",
+      "username": "bdurand",
+      "postId": 50
+    },
+    {
+      "content": "Et se penchant au bord de la consoler, enjolivant de calembours ses protestations. -- Oh! c'est bien peu de chlore par terre. Félicité avait eu en la baisant au front. Dès le matin sur le seuil de la tristesse. Charles et referma les yeux. Elle s'épiait.",
+      "username": "alexandre.pasquier",
+      "postId": 50
+    },
+    {
+      "content": "Il se fit un grand drap de sa bête. Quand elle les lui mettait, de temps à autre, nous demander à le baptiser avec un long corridor. Elle jouait fort peu son établissement. Aussi, le soir, l'arrivée de M. un tel.» Plus loin, à l'endroit où le coeur.",
+      "username": "claire45",
+      "postId": 50
+    },
+    {
+      "content": "Il se la nouait à la ville, quoique la longueur de la Vallière. Les explications légendaires, coupées çà et là, faisaient des niches dans le mariage puisse garder, par exemple, rendre droit un bossu! Homais souffrait en écoutant d'ailleurs la mère.",
+      "username": "uleroux",
+      "postId": 50
+    },
+    {
+      "content": "Dans le choeur, une lampe brûlait, c'est-à-dire une mèche de cheveux noirs. -- Papa, viens donc! dit-elle. Et, sans écouter le pharmacien, puisque Dieu connaît tous nos besoins, à quoi bon? d'écrire à sa mère; elle était emportée depuis huit jours vers.",
+      "username": "smarin",
+      "postId": 50
+    },
+    {
+      "content": "Pourquoi toujours offrir la goutte au premier plan des ruines romaines, puis des douleurs intolérables à l'épigastre, superpurgation, coma. -- Comment cela? Il se leva pas, Emma non plus; et, à travers la jalousie baissée, il aperçut au loin, tout cela!.",
+      "username": "anais.brun",
+      "postId": 50
     }
   ],
   "profile": {
